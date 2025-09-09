@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "158f43fbc0d33ad3",
+        "id": "ee7dd2066888e079",
         "type": "tabs",
         "children": [
           {
-            "id": "421fc3a4504e2628",
+            "id": "fc1ad71d24d6b2a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,9 +166,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb6ca81e8684ef0",
+  "active": "fc1ad71d24d6b2a6",
   "lastOpenFiles": [
     "Level2-Pelajaran3/README.md",
+    "Level2-Pelajaran4/README.md",
+    "Level2-Pelajaran4/Screen Shot 2025-09-10 at 06.29.30@2x.png",
     "README.md",
     "README 2.md"
   ]
