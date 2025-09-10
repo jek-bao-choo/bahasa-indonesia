@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee7dd2066888e079",
+        "id": "698fe31ca4974e52",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1ad71d24d6b2a6",
+            "id": "740fd95cb255eba1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,12 +165,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc1ad71d24d6b2a6",
+  "active": "fcb6ca81e8684ef0",
   "lastOpenFiles": [
+    "README.md",
     "Level2-Pelajaran3/README.md",
+    "Screen.md",
+    "Screen Shot 2025-09-10 at 06.36.10@2x.png",
+    "Level2-Pelajaran3/Screen Shot 2025-09-09 at 19.07.52@2x.png",
     "Level2-Pelajaran4/README.md",
     "Level2-Pelajaran4/Screen Shot 2025-09-10 at 06.29.30@2x.png",
-    "README.md",
     "README 2.md"
   ]
 }
