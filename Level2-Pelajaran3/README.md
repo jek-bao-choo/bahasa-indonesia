@@ -369,7 +369,26 @@ Example:
 
 ![[Screen Shot 2025-09-09 at 20.23.16.png]]
 
+- _Saya akan belajar bahasa Indonesia masih satu bulan._  
+    → I will still study Indonesian for one month.
+    
+- _Saya akan belajar bahasa Indonesia masih dua minggu._  
+    → I will still study Indonesian for two weeks.
+    
+- _Saya akan belajar bahasa Indonesia masih tiga tahun._  
+    → I will still study Indonesian for three years.
 ![[Screen Shot 2025-09-09 at 20.23.57.png]]
+
+- **Apa** = what / question marker (here: "Do…?")
+    
+- **kamu** = you (informal)
+    
+- **punya** = to have/own
+    
+- **teman** = friend
+    
+- **laki-laki** = man/male
+A lot, auntie
 
 Maksud = 
 
