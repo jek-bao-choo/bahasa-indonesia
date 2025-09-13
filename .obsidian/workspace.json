@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d95db2e8565bd930",
+        "id": "9eee1621413e97f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0a5c574ad3fe0e5c",
+            "id": "c4ae008eb8efa77a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb6ca81e8684ef0",
+  "active": "c4ae008eb8efa77a",
   "lastOpenFiles": [
+    "Level2-Pelajaran5/README.md",
+    "Level2-Pelajaran5",
     "Level2-Pelajaran4/Screenshot 2025-09-11 at 20.21.27.png",
     "Level2-Pelajaran4/Screenshot 2025-09-11 at 20.19.35.png",
     "Level2-Pelajaran4/Screenshot 2025-09-11 at 20.11.59.png",
@@ -178,7 +180,6 @@
     "Level2-Pelajaran4/Screenshot 2025-09-11 at 19.48.27.png",
     "Level2-Pelajaran4/Screenshot 2025-09-11 at 19.42.37.png",
     "Level2-Pelajaran4/Screenshot 2025-09-11 at 19.41.41.png",
-    "Level2-Pelajaran4/Screenshot 2025-09-11 at 19.38.57.png",
     "Level2-Pelajaran3/README.md",
     "README.md",
     "Screen.md",
