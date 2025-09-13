@@ -255,7 +255,19 @@ Simple verb. Intransitive verb meaning no object. Simple very followed by prepos
 
 
 ![](Screenshot%202025-09-11%20at%2019.54.51.png)
+**Kabar** = _news / information / update_.
 
+Examples:
+
+- _Apa kabar?_ → “How are you?” (literally: “What news [do you bring]?”)
+    
+- _Kabar baik._ → “Good news.” / “I’m fine.”
+    
+- _Ada kabar baru?_ → “Any new updates?”
+
+- **bagaimana** = how
+    
+- **kabar** = news, update, condition
 
 Saya:
 1) tinggal di Nus.
@@ -289,6 +301,12 @@ GPT:
 
 “Oh yes Angela, next month on September 16, my good friend wants to visit her aunt’s house in Jakarta. I want to go with her to Jakarta. Can we meet in Jakarta? In Jakarta, I really want to go shopping and try Indonesian specialty foods. My good friend and I will not stay long in Jakarta, only 4 days. On September 20, we will go to Singapore because my parents will come from Australia on September 21.”
 
+- **sudah** = already, done
+    
+- **dulu** = for now, first (to indicate priority or temporary pause)
+    
+- **ya** = softener particle (like “okay?” or “alright?”)
+
 **berbelanja** = “to shop / to go shopping”
 **Root word:** _belanja_ = shopping / expenses / money for shopping.
 
@@ -318,7 +336,22 @@ GPT:
 danau = lake
 gunung = mountain
 perjalanannya = journey
-a bit far.
+
+**jalan** → walk/path  
+**perjalanan** → journey/travel  
+**perjalanannya** → _the journey_ / _his/her journey_
+
+**Harus** = _must / have to / should (obligation)._
+
+Examples:
+
+- _Saya harus belajar._ → “I must study.”
+    
+- _Kamu harus datang tepat waktu._ → “You must come on time.”
+    
+- _Dia harus minum obat._ → “He has to take medicine.”
+
+
 
 ![](Screenshot%202025-09-11%20at%2020.11.59.png)
 
@@ -334,13 +367,138 @@ berkumpul = gather
     
 - **Wisata** = tourism, travel for leisure.
 
+**Berbicara** means _to speak, to talk, to converse_.
+
+- **ber-** → prefix indicating action/state (intransitive verb).
+    
+- **bicara** → root word, means _talk, speech_.  
+    So **berbicara** literally means _to be in the state of talking_.
+
+### 📊 Comparison Table
+
+|Word|Register|Typical Use|Tone|
+|---|---|---|---|
+|**berbicara**|Formal|Speeches, polite conversation, writing|Respectful|
+|**bicara**|Neutral|Daily polite speech, writing|Neutral, direct|
+|**ngomong**|Informal|Everyday talk, friends/family|Casual|
+|**ngobrol**|Informal|Chatting, small talk|Relaxed, social|
+|**bercakap-cakap**|Formal/Polite|Literary, refined, older style|Elegant, polite|
+
+## 🔹 1. **berbicara**
+
+- **Meaning:** to speak, to talk.
+    
+- **Formality:** Polite and neutral. Used in formal writing, speeches, and polite conversation.
+    
+- **Example:** _Dia berbicara di depan umum._ → "He/She speaks in public."
+    
+- **Tone:** Professional, respectful.
+    
+
+---
+
+## 🔹 2. **bicara**
+
+- **Meaning:** to talk, to speak.
+    
+- **Formality:** Neutral, slightly less formal than _berbicara_. Common in both spoken and written Indonesian.
+    
+- **Example:** _Boleh saya bicara dengan Anda?_ → "May I talk with you?"
+    
+- **Tone:** Direct, but still polite. Often used in daily life.
+    
+
+---
+
+## 🔹 3. **ngomong**
+
+- **Meaning:** to talk, to say (informal).
+    
+- **Formality:** Casual, everyday spoken Indonesian. Not used in writing or formal contexts.
+    
+- **Example:** _Dia ngomong terus, nggak berhenti._ → "He keeps talking, doesn’t stop."
+    
+- **Tone:** Friendly, relaxed.
+    
+
+---
+
+## 🔹 4. **ngobrol**
+
+- **Meaning:** to chat, to have a casual conversation.
+    
+- **Formality:** Informal, friendly, used among peers.
+    
+- **Example:** _Mau ikut ngobrol sama kita?_ → "Want to join our chat?"
+    
+- **Tone:** Casual, lighthearted, social.
+    
+
+---
+
+## 🔹 5. **bercakap-cakap**
+
+- **Meaning:** to converse, to have a conversation.
+    
+- **Formality:** Polite and slightly old-fashioned; still used, but feels more formal/literary.
+    
+- **Example:** _Mereka bercakap-cakap di teras rumah._ → "They conversed on the porch."
+    
+- **Tone:** Refined, somewhat formal, often appears in books, media, or polite speech.
+
+---
+
+### ✅ Practical Example with all 5
+
+Imagine you want to say: _"Can I talk to you for a moment?"_
+
+1. **berbicara** → _Boleh saya berbicara dengan Anda sebentar?_ (Formal, respectful)
+    
+2. **bicara** → _Aku mau bicara sama kamu sebentar._ (Neutral, daily polite)
+    
+3. **ngomong** → _Aku mau ngomong sebentar, boleh?_ (Casual)
+    
+4. **ngobrol** → _Yuk, ngobrol sebentar di luar._ (Very casual, like "let’s chat")
+    
+5. **bercakap-cakap** → _Kita bisa bercakap-cakap nanti sore._ (Formal, refined, maybe in writing)
+
+
+kami bertanya kepada penjual harga barang-barang di toko itu.
+(We asked the seller about the prices of the goods in that shop.)
+
+**kepada**: root **pada** (toward/on), with prefix **ke-** (to). Used to mean "to (someone)".
+
+
 ![](Screenshot%202025-09-11%20at%2020.19.35.png)
 
-ber + ajar = belajar. Why? don't know.
+
+- Prefix **ber-** = indicates having/being in a state.
+    
+- Root **jarak** = distance, space, interval.
+    
+- → **berjarak** = “to have distance / to be distanced”.
+
+ber + ajar = belajar. Why? don't know. 
+**ajar** = “to teach” (root form).
+
+- **ajar** = root word, “teach/lesson”.
+    
+- **meng- + ajar → mengajar** = to teach.
+    
+- **bel- + ajar → belajar** = to learn.
+    
+- **peng- + ajar → pengajar** = teacher.
+    
+- **-an suffix: ajaran** = teaching, doctrine.
+
 
 ber + kerja = bekerja
 
+ **latihan** = “practice / exercise / training”.
+
 ![](Screenshot%202025-09-11%20at%2020.21.27.png)
+
+
 
 tentang = about
 
@@ -355,9 +513,9 @@ tentang = about
 
 ### **2. Berbicara**
 
-- Guru sedang berbicara **kepada** murid.
+- Guru sedang berbicara **kepada** Siti.
     
-- Mereka berbicara **tentang** rencana liburan.
+- Mereka berbicara **tentang** belajar Bahasa Indonesia.
     
 - Saya berbicara **dengan** ibu di dapur.
 
@@ -370,11 +528,11 @@ tentang = about
 
 ### **3. Bertanya**
 
-- Murid bertanya **kepada** guru tentang pelajaran.
+- Siti bertanya **kepada** guru tentang pelajaran.
     
-- Saya ingin bertanya **tentang** proyek baru itu.
+- Saya ingin bertanya **tentang** belajar Bahasa Indonesia.
     
-- Dia bertanya **ke** polisi tentang alamat.
+- Dia bertanya **ke** polisi tentang... .
     
 
 ---
@@ -383,7 +541,7 @@ tentang = about
 
 - Ibu berbelanja **di** pasar pagi.
     
-- Mereka berbelanja **ke** mal setiap akhir pekan.
+- Mereka berbelanja **ke** mal setiap siang.
     
 - Saya suka berbelanja **dengan** teman.
     
@@ -392,11 +550,11 @@ tentang = about
 
 ### **5. Bercakap-cakap**
 
-- Mereka bercakap-cakap **dengan** tetangga.
+- Mereka bercakap-cakap **dengan** latihan bahasa indonesia.
     
 - Kami bercakap-cakap **tentang** pekerjaan baru.
     
-- Dia bercakap-cakap **di** ruang tamu.
+- Dia bercakap-cakap **di** ruang dapur.
 
 
 --- 
