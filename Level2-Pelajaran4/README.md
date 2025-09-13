@@ -1,8 +1,28 @@
 
 ![](Screenshot%202025-09-11%20at%2019.04.09.png)
+**Kata kerja** = _verb_ (literally _word of work/action_).
 ![](Screenshot%202025-09-11%20at%2019.05.24.png)
 
 ![](Screenshot%202025-09-11%20at%2019.05.46.png)
+- Prefix: **me-** → makes a verb (active form).
+    
+- Root: **tarik** → _pull_.
+    
+- So **menarik** literally = _to pull_.  
+    Over time, it also gained the metaphorical meaning of _pulling attention_ → _interesting/attractive_.
+
+**Lumayan** → comes from _lumaya_ (old Javanese word meaning “adequate/acceptable”), now means _not bad, okay, quite_.
+
+**Jadi** has several meanings depending on context:
+
+1. **To become** → _He became a doctor_ = **Dia jadi dokter.**
+    
+2. **So / therefore** → _So, what do we do?_ = **Jadi, kita harus bagaimana?**
+    
+3. **To happen / to take place** → _Is the event happening?_ = **Acaranya jadi?**
+    
+4. **Done / completed** (casual) → _It’s done_ = **Sudah jadi.**
+
 Last year I went to Bali with my family. There, we visited interesting places. We stayed at a hotel in Sanur. On the first day, we went to Seminyak beach. We played there and took a walk. On the second day, we visited Kintamani. The trip from Sanur to Kintamani was quite far, so we had to leave at 7:00 in the morning. On the third day, we went to Sukawati Market. There we saw many nice and cheap items. I bought new clothes and my husband looked for black shoes. We returned to Singapore on the fifth day.
 
 **yang lalu** = ago / last
@@ -56,6 +76,14 @@ Kategori 3 => meN verb
 
 ![](Screenshot%202025-09-11%20at%2019.24.15.png)
 
+**Dosen** = _lecturer_ or _university professor_.
+
+- Prefix: **be-** (variant of _ber-_) → marks action/activity.
+    
+- Root: **lanja** (from Malay, meaning _expenses/spending_).
+    
+- So **belanja** = _to do spending / to shop_.
+
 _Sesudah makan, saya tidur._ → “After eating, I sleep.”
 
 ![](Screenshot%202025-09-11%20at%2019.25.09.png)
@@ -69,10 +97,18 @@ tentang apa = about what
     
 - _Kamu bicara tentang apa?_ → “What are you talking about?”
 
+
+- **Menerangkan**
+    
+    - Prefix **me-** (active verb) + **-kan** (causative suffix).
+        
+    - Root: **terang** (_bright, clear_).
+        
+    - So: _to make clear → to explain_.
+
 Kamar is more private => for sleeping bedroom
 ruang is room.
 
-Tidak, Bu. Sesudah ini saya mau pergi ke Clementi dengan Alicia. Saya mau membeli buah-buahan untuk ibu saya dan Alicia mau mencari buku dan berbelanja. Sekarang Alicia sedang menunggu saya di halte bus. Saya permisi dulu ya, Bu. Terima kasih. Baiklah. Kembali.
 
 **berbelanja** = to shop. (ber- prefix = to do, belanja = shopping).
 
@@ -86,6 +122,18 @@ Tidak, Bu. Sesudah ini saya mau pergi ke Clementi dengan Alicia. Saya mau membel
 ![](Screenshot%202025-09-11%20at%2019.38.57.png)
 
 ![](Screenshot%202025-09-11%20at%2019.41.41.png)
+
+- **Imbuhan** = _affixes_ (from root **imbuh** = _to add_ + suffix **-an** = noun form).
+    
+
+**berimbuhan** = _having affixes_.  
+**tidak berimbuhan** = _not having affixes_.
+
+Half past 8 = Jam setengah sembilan (pagi / malam) = 8:30
+Quarter past 8 = Jam delapan lewat seperempat (pagi / malam)  = 8:15
+Quarter to 9 = Jam sembilan kurang seperempat (pagi / malam)  = 8:45
+
+
 
 ![](Screenshot%202025-09-11%20at%2019.42.37.png)
 
@@ -105,7 +153,20 @@ Simple verb generally follow preposition. e.g. pulang ke, sampai di.
 
 - **Kaos** = T-shirt. **ka-os** → borrowed from Portuguese _caos_, now “T-shirt.”
     
-- **Lalu** = then, after that.
+- **Lalu** = then, after that. 
+- **Yang lalu** = _the past one_, _last_, or _previous_.  
+It depends on context, but usually it means **“last/previous (time)”**.
+
+**Lalu kami pulang** = _Then we went home_ 
+
+Examples:
+
+- _Minggu yang lalu_ → “last week”
+    
+- _Tahun yang lalu_ → “last year”
+    
+- _Hari yang lalu_ → “the day before” / “a day ago”
+- **lalu** = past, already gone, passed by
 
 - **Indah** = beautiful (for scenery, places, memories, feelings, words).  
     Examples:
@@ -133,15 +194,65 @@ Simple verb generally follow preposition. e.g. pulang ke, sampai di.
     - Commonly used in traditional, artistic, or polite contexts.
         
     - Example: _“Dia suka menari Bali.”_ → “She likes Balinese dance.”
+    - - **me-** → active verb prefix, indicates an action being done.
+    
+- **nari** → root word, from **tari** meaning _dance_.  
+    (Note: When **me-** attaches to **tari**, the **t** changes to **n** → _menari_.)
+    So:  
+	**me- + tari → menari** = _to dance_.
 
 
 
 
 ![](Screenshot%202025-09-11%20at%2019.52.46.png)
+
+**gagal** = fail / failure
+
+**Hidup** can mean:
+
+- _to live_ (verb)
+    
+- _life_ (noun)
+    
+- _alive_ (adjective)
+    
+- _on_ (for electricity, lights, engines)
+- Indonesians use **hidup** very often in daily life, both literally (alive, living) and figuratively (spirit, motivation, energy).  
+It’s also used in slogans or cheers, e.g.:
+
+- _Hidup Indonesia!_ → “Long live Indonesia!”
+- Aku hidup di Jakarta. = “I live in Jakarta.” 
+
+
+- **ingat** = remember
+    
+- Common expressions:
+    
+    - _ingat-ingat_ = keep remembering (reduplication for emphasis)
+        
+    - _nggak ingat_ = don’t remember (casual)
+        
+    - _saya tidak ingat_ = I don’t remember (polite)
+
+
+
+**Ingin** = _to want / to wish / to desire_.
+
+- _Saya ingin makan._ → “I want to eat.”
+    
+- _Dia ingin sukses._ → “He wants to be successful.”
+
+**Saya ingin berlibur ke Bali.**  
+= “I want to go on vacation to Bali.”
+
+
 Simple verb
 
 ![](Screenshot%202025-09-11%20at%2019.53.55.png)
 Simple verb. Intransitive verb meaning no object. Simple very followed by preposition.
+
+----> Bookmark <---
+
 
 ![](Screenshot%202025-09-11%20at%2019.54.51.png)
 

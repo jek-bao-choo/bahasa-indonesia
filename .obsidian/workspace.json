@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9eee1621413e97f0",
+        "id": "5e1f93f1ad06fe15",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ae008eb8efa77a",
+            "id": "5ea3a3fe379e0b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Level2-Pelajaran4/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4ae008eb8efa77a",
+  "active": "5ea3a3fe379e0b49",
   "lastOpenFiles": [
     "Level2-Pelajaran5/README.md",
     "Level2-Pelajaran5",
