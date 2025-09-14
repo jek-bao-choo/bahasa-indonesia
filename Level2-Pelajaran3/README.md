@@ -361,10 +361,34 @@ Example:
 
 
 
---> Mulai revisi dari sini. --> 
-
 ![[Screen Shot 2025-09-09 at 20.07.32.png]]
+**Lengkapilah**
 
+- Root word: **lengkap** = complete, thorough, not missing anything.
+    
+- Suffix: **-i** = makes the verb transitive (to apply the action to something).
+    
+- Particle: **-lah** = softens the command, making it more polite.
+    
+- Full meaning: _Please complete (something)._
+    
+- Commonly used in school, instructions, or when asking politely.
+
+“Silakan lengkapi tabel di bawah ini.”  
+(_Please complete the table below._)
+
+- **pakailah**
+    
+    - Root: **pakai** = to use, to wear.
+        
+    - Suffix: **-lah** = polite imperative particle, softens a command.
+        
+    - Meaning: _please use._
+        
+- **fungsi**
+    
+    - Means _function_.
+	- **Everyday life**: People use it for _role/purpose_, like _fungsi HP sekarang bukan hanya untuk telepon_ (The function of phones nowadays is not just for calling).
 
 
 ![[Screen Shot 2025-09-09 at 20.23.16.png]]
@@ -397,17 +421,101 @@ Pacar = boyfriend
 teman laki-laki = male friend
 ![[Screen Shot 2025-09-09 at 20.27.17.png]]
 
+
+
 ![[Screen Shot 2025-09-09 at 20.27.26.png]]
+
+**Situasi: Di kantor, Mbak Lastri mencari Mbak Sri.**
+
+- **Mbak Lastri**: Mas Doni, Anda melihat Mbak Sri?
+    
+- **Mas Doni**: Lho, Mbak Sri kan sedang pergi ke luar negeri?
+    
+- **Mbak Lastri**: __________________________________________“Maksud saya Mbak Sri Murni, bukan Mbak Sri Rahmat.”
+    
+- **Mas Doni**: O, Mbak Sri Murni maksudnya. Saya kira Mbak Sri Rahmat. Kalau Mbak Sri Murni memang hari ini tidak masuk. Dia sakit.
+
+**Maksud saya…** → “What I mean is…”
+
+Alternative answer: Oh, maksud saya Mbak Sri Murni. 
+
+Alternative answer: Saya maksud Mbak Sri Murni, bukan yang lain.
+
+Alternative answer: Maksud saya, bukan Mbak Sri Rahmat. Anda melihat Mbak Sri Murni? 
 
 Lho => Is an expression like "Oh you don't know"
 
+“**kan**” is short for **“bukan”** or **“ya, bukan?”**, and it functions like:
+
+- **“right?”**
+    
+- **“isn’t it?”**
+    
+- **“you know”**
+    
+
+It’s often used at the **end of a sentence** to ask for confirmation or agreement, but can also appear in the **middle** as an informal connector.
+
+- **memang** is a **base word** (not from prefix/suffix); it’s a stand-alone adverb in Indonesian.
+    
+- Function: adverb of emphasis (like “indeed” in English).
+
 ![[Screen Shot 2025-09-09 at 20.29.36.png]]
 
-Mbak Lastri: Maksud saya, bukan Mbak Sri Rahmat. Anda melihat Mbak Sri Murni? 
+**Situasi: Pak Tomo akan berangkat ke Jepang.**  
+Pak Markus: Pak Tomo, jam berapa akan berangkat ke Jepang?  
+Pak Tomo: Saya akan berangkat jam 21:00 dari rumah.  
+Pak Markus: ____________________________.  =>  "Maksud saya, Jam berapa pesawatnya berangkat?" 
+Pak Tomo: O, kalau pesawatnya akan berangkat jam 23:30.
+
+
+- **Pesawat** = airplane, machine, or device.
+    
+- **-nya** = definite suffix (the / its / his / her).
+    
+
+So:  
+**pesawat + nya** → “the airplane”
+
 
 Pak Markus: 
 
 ![[Screen Shot 2025-09-09 at 20.32.05.png]]
 
+**Situasi: Ati tinggal di Jakarta. Minggu depan dia mau berlibur ke Manado.**
+
+Ati: Surya, minggu depan saya mau ke Manado.  
+Surya: O, ya. Berapa lama ke sananya?  
+Ati: Saya mau seminggu di sana.  
+Surya: ____________________________.   => "Maksud saya, Berapa lama perjalanan ke Manado?" 
+Ati: O, kalau dari sini ke Manado kira-kira 3 jam.
+
+
+
 ![[Screen Shot 2025-09-09 at 20.32.14.png]]
 
+**Situasi: Katie mahasiswa dari Amerika. Suatu hari dia membeli buah di pasar.**
+
+Katie: Pak, saya mau mangga dua.  
+Penjual: Memberikan 2 kilo mangga.
+Katie: ____________________________.   => “Oh, maksud saya dua buah mangga, bukan dua kilo.” 
+Penjual: O, saya kira 2 kilo.
+
+
+**Mahasiswa** = university student / college student.
+- **Maha** = great / higher (Sanskrit origin).
+    
+- **Siswa** = student / pupil.
+
+**suatu** = _one / a certain / some_.
+
+
+- **Buatlah** = please make/create.
+    
+    - Root: **buat** (to make/do).
+        
+    - Suffix **-lah** = makes it polite or a command request.
+        
+- **Situasi** = situation.
+    
+- **Sendiri** = yourself / own.
