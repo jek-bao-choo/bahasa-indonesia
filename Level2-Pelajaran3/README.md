@@ -292,6 +292,8 @@ TK= Taman Kanak-Kanak (Kindergarden)
 - **asalnya** = _the origin_ / _one’s origin_ (noun phrase).
     
 
+janji is giving an excuse.
+
 So:
 
 - **Dia berasal dari Bandung.** → _He/She comes from Bandung._
