@@ -420,6 +420,4 @@ Common derived forms:
 ![](Pasted%20image%2020250918202033.png)
 
 
-
-
-![](Screenshot%202025-09-18%20at%2019.04.09.png)
+![](Pasted%20image%2020250918203346.png)
