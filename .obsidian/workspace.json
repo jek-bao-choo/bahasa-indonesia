@@ -11,10 +11,14 @@
             "id": "b74a6e8712b1edcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Level2-Pelajaran6/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -167,21 +171,23 @@
   },
   "active": "b74a6e8712b1edcb",
   "lastOpenFiles": [
+    "Level2-Pelajaran7/README.md",
+    "Level2-Pelajaran6/README.md",
+    "Level2-Pelajaran7",
+    "Level2-Pelajaran6/Pasted image 20250918202446.png",
+    "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.04.09.png",
+    "Level2-Pelajaran6/Pasted image 20250918200806.png",
+    "Level2-Pelajaran6/Pasted image 20250918202033.png",
+    "Level2-Pelajaran6/Pasted image 20250918202015.png",
+    "Level2-Pelajaran6/Pasted image 20250918201940.png",
+    "Level2-Pelajaran6/Pasted image 20250918201918.png",
+    "Level2-Pelajaran6/Pasted image 20250918201831.png",
+    "Level2-Pelajaran6/Pasted image 20250918201219.png",
+    "Level2-Pelajaran6/Pasted image 20250918201034.png",
     "Level2-Pelajaran5/README.md",
     "Level2-Pelajaran5/pelajaran5.m4a",
     "Level2-Pelajaran5/pelajaran5lagi.m4a",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-30-55_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-15-39_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-15-02_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-08-36_UTC+0800.png",
-    "Level2-Pelajaran6/README.md",
     "Level2-Pelajaran6",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-06-51_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-06-27_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-06-13_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-01-02_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T20-00-34_UTC+0800.png",
-    "Level2-Pelajaran5/Screenshot_2025-09-16T19-59-30_UTC+0800.png",
     "Level2-Pelajaran3/README.md",
     "Level2-Pelajaran4/README.md",
     "Level2-Pelajaran5",
