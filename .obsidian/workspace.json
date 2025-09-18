@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "274a8362aeb52e47",
+        "id": "e01cca2cecf14e19",
         "type": "tabs",
         "children": [
           {
-            "id": "9361071cc04f9928",
+            "id": "b74a6e8712b1edcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level2-Pelajaran5/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9361071cc04f9928",
+  "active": "b74a6e8712b1edcb",
   "lastOpenFiles": [
-    "Level2-Pelajaran5/pelajaran5.m4a",
     "Level2-Pelajaran5/README.md",
+    "Level2-Pelajaran5/pelajaran5.m4a",
     "Level2-Pelajaran5/pelajaran5lagi.m4a",
     "Level2-Pelajaran5/Screenshot_2025-09-16T20-30-55_UTC+0800.png",
     "Level2-Pelajaran5/Screenshot_2025-09-16T20-15-39_UTC+0800.png",
