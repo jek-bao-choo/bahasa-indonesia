@@ -11,12 +11,14 @@
             "id": "b74a6e8712b1edcb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Level2-Pelajaran6/Pasted image 20250918203346.png"
+                "file": "Level2-Pelajaran6/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250918203346"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -167,24 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb6ca81e8684ef0",
+  "active": "b74a6e8712b1edcb",
   "lastOpenFiles": [
-    "Level2-Pelajaran6/README.md",
-    "Level2-Pelajaran6/Pasted image 20250918203346.png",
     "Level2-Pelajaran7/README.md",
     "Level2-Pelajaran7",
-    "Level2-Pelajaran6/Pasted image 20250918202446.png",
+    "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.43.08.png",
+    "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.35.15.png",
+    "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.06.35.png",
+    "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.06.27.png",
+    "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.06.16.png",
     "Level2-Pelajaran6/Screenshot 2025-09-18 at 19.04.09.png",
-    "Level2-Pelajaran6/Pasted image 20250918200806.png",
+    "Level2-Pelajaran6/Pasted image 20250918203346.png",
+    "Level2-Pelajaran6/Pasted image 20250918202446.png",
     "Level2-Pelajaran6/Pasted image 20250918202033.png",
     "Level2-Pelajaran6/Pasted image 20250918202015.png",
-    "Level2-Pelajaran6/Pasted image 20250918201940.png",
-    "Level2-Pelajaran6/Pasted image 20250918201918.png",
-    "Level2-Pelajaran6/Pasted image 20250918201831.png",
-    "Level2-Pelajaran6/Pasted image 20250918201219.png",
     "Level2-Pelajaran5/README.md",
     "Level2-Pelajaran5/pelajaran5.m4a",
     "Level2-Pelajaran5/pelajaran5lagi.m4a",
+    "Level2-Pelajaran6/README.md",
     "Level2-Pelajaran6",
     "Level2-Pelajaran3/README.md",
     "Level2-Pelajaran4/README.md",

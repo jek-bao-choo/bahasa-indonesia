@@ -121,7 +121,15 @@ So together: **“certainly, of course.”**
 - **meN-** (prefix, verb-forming, here becomes **meng-** because the root begins with a vowel sound)  
     → **mengantar = to take someone / to deliver / to escort**
 
- 
+**“Mengerti”** means **“to understand”**.  
+Example: _Saya mengerti bahasa Indonesia_
+- Prefix **meN-** (changes form depending on the following root word, here it becomes **meng-**) → marks an active verb.
+    
+- Root word: **erti** → “meaning, sense, understanding.”
+    
+- So **mengerti** literally = “to make sense of / to understand.”
+
+
 ![](Screenshot%202025-09-18%20at%2019.06.16.png)
 
 1) di 
@@ -134,17 +142,58 @@ So together: **“certainly, of course.”**
 
 ![](Screenshot%202025-09-18%20at%2019.06.27.png)
 
+
+
+![](Screenshot%202025-09-18%20at%2019.06.35.png)
+
 8) berbelanja
 9) berjalan-jalan
 10) berenang
 11) bermain
 
-![](Screenshot%202025-09-18%20at%2019.06.35.png)
 
 
 ![](Screenshot%202025-09-18%20at%2019.35.15.png)
 
+
+Ini Andi, pacar Ruth dulu. Andi tinggi dan tampan. Dia **berambut** hitam. Sekarang dia ada di taman. Dia **berkaos** warna putih, **bercelana panjang** biru dan **bersepatu** olahraga.
+
+**Dia memakai kaos warna putih, celana panjang biru dan sepatu olahraga.**
+
+
+
+**Tampan** = handsome / good-looking (for men).
+- Root word: **tampan** (no prefix/suffix).
+    
+- Related forms:
+    
+    - **Ketampanan** = handsomeness (abstract noun).
+        
+    - **Menampan** (not used in daily speech, very rare).
+
+
+- **ber-** = prefix meaning “to have / to possess / to be with.”
+    
+- **rambut** = hair.  
+    So: **berambut** = “to have hair.”
+
+
+- **ber-** = prefix meaning “to have / to wear / to use.”
+    
+- **kaos** = T-shirt.  
+    So **berkaos** = “to wear a T-shirt.”
+
+
+- **ber-** = prefix meaning “to have / to wear / to be with.”
+    
+- **sepatu** = shoes.
+    
+- **olahraga** = sport/exercise.
+
+
 ![](Pasted%20image%2020250918193529.png)
+
+
 
 ![](Pasted%20image%2020250918193538.png)
 
