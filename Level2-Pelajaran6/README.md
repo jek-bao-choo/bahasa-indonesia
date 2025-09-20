@@ -195,6 +195,8 @@ Ini Andi, pacar Ruth dulu. Andi tinggi dan tampan. Dia **berambut** hitam. Sekar
 
 
 
+
+
 ![](Pasted%20image%2020250918193538.png)
 
 Hari ketiga di Bali, kami pergi ke Pasar Sukawati. Barang-barang di sana murah dan bagus. Ada pakaian, lukisan, patung dan barang-barang seni lainnya. Tapi harga-harga di sana bukan harga pas. Kami boleh _menawar_ harga barang-barang itu. Saya _membeli_ banyak kaos di sana. Saya mau _memberi_ kaos-kaos itu kepada teman-teman saya untuk
@@ -270,6 +272,12 @@ Suami saya masuk ke toko sepatu. Dia **mencoba** sepatu olahraga ukuran 40. Tapi
     
 - **-nya** = suffix that can mean _his/her/their/its_ or act as a marker for reported speech (impersonal “it is said”).
 
+- **Wah** → exclamation, “Wow”.
+    
+- **anak itu** → “that child”.
+    
+- **senang sekali** → “very happy” (_senang_ = happy/glad; _sekali_ = very/extremely).
+
 
 ![](Pasted%20image%2020250918194546.png)
 
@@ -287,47 +295,18 @@ masak
 nikah
 nyanyi
 rokok
-baca
-dengar
+baca = read
+dengar = hear
 jual
 cari
 antar
-isi
-undang
-eja
-obrol
-ganggu
-hukum
+isi = fill
+undang = invite
+eja = spell
+obrol = chat
+ganggu = disturb
+hukum = law/punish
 
-- **melihat** = to see / to look at
-    
-- **memasak** = to cook
-    
-- **menikah** = to marry
-    
-- **menyanyi** = to sing
-    
-- **merokok** = to smoke
-    
-- **membaca** = to read
-    
-- **mendengar** = to hear
-    
-- **menjual** = to sell
-    
-- **mencari** = to search / to look for
-    
-- **mengantar** = to accompany / to escort / to drop off
-    
-- **mengisi** = to fill (in, up, out)
-    
-- **mengundang** = to invite
-    
-- **mengeja** = to spell
-    
-- **mengobrol** = to chat / to talk casually
-    
-- **mengganggu** = to disturb / to bother
 
 ---
 - **melihat** = me- (prefix for active verb) + lihat (see). Everyday verb for looking or seeing.
@@ -366,31 +345,23 @@ hukum
 ---
 
 
-|Root word starts with|Prefix form|Example|
-|---|---|---|
-
-|   |   |   |
-|---|---|---|
-|**b, f, p** (p drops)|**mem-**|_baca → membaca_ (to read), _foto → memfoto_ (to photograph), _pakai → memakai_ (to use)|
-
-|   |   |   |
-|---|---|---|
-|**c, j, d, t** (t drops)|**men-**|_cari → mencari_ (to search), _jual → menjual_ (to sell), _tanam → menanam_ (to plant)|
-
-|   |   |   |
-|---|---|---|
-|**s** (s drops)|**meny-**|_apu → menyapu_ (to sweep), _anyi → menyanyi_ (to sing)|
-
-|   |   |   |
-|---|---|---|
-|**g, h, k** (k drops), vowels (a, i, u, e, o)|**meng-**|_gali → menggali_ (to dig), _hitung → menghitung_ (to count), _angkat → mengangkat_ (to lift), _isi → mengisi_ (to fill)|
-
-|                                              |                     |                                                                                                                     |
-| -------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **l, m, n, ny, r**<br><br>?? maybe also w, y | **me-** (no change) | _lari → melari_ (rare), _nyata → menyatakan_ (to declare), _lihat → melihat_ (to see), _rasa → merasakan_ (to feel) |
-
 
 ![](Pasted%20image%2020250918201034.png)
+
+![](Pasted%20image%2020250918201918.png)
+
+![](Pasted%20image%2020250918201940.png)
+
+
+Mulai sini <--
+
+| Root word starts with                         | Prefix form         | Example                                                                                                                  | Ways to memory                                                                                                                   |
+| --------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| **b, p** (p drops)                            | **mem-**            | _baca → membaca_ (to read), _foto → memfoto_ (to photograph), _pakai → memakai_ (to use)                                 | **B**ig **P**andas **mem**orize. (The action word _is_ the prefix sound: **mem**-.)                                              |
+| **c, d, j, t** (t drops)                      | **men-**            | _cari → mencari_ (to search), _jual → menjual_ (to sell), _tanam → menanam_ (to plant)                                   | **C**lever **D**octors **J**oin **T**ogether to **men**tor. (A professional action that _is_ the prefix sound: **men**-.)        |
+| **s** (s drops)                               | **meny-**           | _apu → menyapu_ (to sweep), _anyi → menyanyi_ (to sing)                                                                  | A **s**nake disappears in **NY**. (The **s** vanishes and is replaced by **ny** for **meny**-.)                                  |
+| **g, h, k** (k drops), vowels (a, i, u, e, o) | **meng-**           | _gali → menggali_ (to dig), _hitung → menghitung_ (to count), _angkat → mengangkat_ (to lift), _isi → mengisi_ (to fill) | **AEIOU**, **G**reat **H**appy **K**ids **sing**. (The action word `sing` gives you the **ng** sound for **meng**-.)             |
+| **l, m, n, ny, r**                            | **me-** (no change) | _lari → melari_ (rare), _nyata → menyatakan_ (to declare), _lihat → melihat_ (to see), _rasa → merasakan_ (to feel)      | **L**oyal **M**inisters **N**ow **R**eport to the **Ny**onya & **me**. (The story directly tells you to use the **me-** prefix.) |
 
 
 ![](Pasted%20image%2020250918201219.png)
@@ -413,9 +384,7 @@ hukum
     
 - **menonton**: _tonton_ (watch) → menonton = to watch.
 
-![](Pasted%20image%2020250918201918.png)
 
-![](Pasted%20image%2020250918201940.png)
 
 **si·buk**
 
