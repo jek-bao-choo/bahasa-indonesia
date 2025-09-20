@@ -345,15 +345,12 @@ hukum = law/punish
 ---
 
 
-
 ![](Pasted%20image%2020250918201034.png)
 
 ![](Pasted%20image%2020250918201918.png)
 
 ![](Pasted%20image%2020250918201940.png)
 
-
-Mulai sini <--
 
 | Root word starts with                         | Prefix form         | Example                                                                                                                  | Ways to memory                                                                                                                   |
 | --------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -384,6 +381,12 @@ Mulai sini <--
     
 - **menonton**: _tonton_ (watch) → menonton = to watch.
 
+
+
+--> Mulai sini <-- 
+
+
+![](Pasted%20image%2020250918202446.png)
 
 
 **si·buk**
@@ -417,12 +420,6 @@ Common derived forms:
     
 - **ajaran** → teachings / doctrine (like religious or moral teaching).
 
-
-
-
-
-
-![](Pasted%20image%2020250918202446.png)
 
 1) mengajar
 2) mengantar
