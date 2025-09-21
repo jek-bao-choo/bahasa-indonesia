@@ -383,7 +383,6 @@ hukum = law/punish
 
 
 
---> Mulai sini <-- 
 
 
 ![](Pasted%20image%2020250918202446.png)
@@ -403,6 +402,48 @@ hukum = law/punish
 
 --- 
 
+The word **“dosen”** is actually a **loanword from Dutch**: _“docent”_ (teacher, instructor).
+
+
+
+**“Biro perjalanan”** means **travel agency**.
+
+- **biro** = bureau, office, agency (loanword from Dutch _bureau_).
+    
+- **perjalanan** = travel, trip, journey.
+
+
+karcis kereta api untuk liburan kami minggu depan
+
+“(The) train ticket(s) for our vacation next week.”
+
+- Indonesians use **“karcis”** and **“tiket”** almost interchangeably, but nowadays **“tiket”** (from English) is **more common** in daily conversation.
+    
+- **“Karcis”** sounds a bit old-fashioned and is often used for cheaper tickets (like bus, parking, entry tickets to places).
+
+- **karcis** = ticket (entry or travel pass; less formal than “tiket”).
+    
+- **kereta api** = train (literally “fire carriage,” from the steam engine era).
+    
+- **untuk** = for, intended for.
+    
+- **liburan** = holiday, vacation.
+    
+- **kami** = we / our (excluding the listener).
+    
+- **minggu depan** = next week.
+
+
+- **pernah** = ever, once, at some point in the past.
+    
+- Often paired with **sudah** (already) or **belum** (not yet):
+    
+    - _“Saya sudah pernah coba.”_ = “I have already tried (it before).”
+        
+    - _“Saya belum pernah ke Jepang.”_ = “I’ve never been to Japan.”
+
+
+--- 
 
 
 - **a·jar** (root word) → teaching / instruction.
@@ -435,4 +476,132 @@ Common derived forms:
 ![](Pasted%20image%2020250918202033.png)
 
 
+- **pesta** = party, celebration (loanword from Portuguese _festa_).
+    
+- **ulang tahun** = birthday.
+    
+    - Literally: “repeat year.”
+        
+    - **ulang** = to repeat, again.
+        
+    - **tahun** = year.
+
+
+- **undang** = to invite to an event (often big or formal).
+    
+    - _mengundang_ = to invite (active).
+        
+    - _undangan_ = invitation (card or message).
+        
+    - _diundang_ = to be invited.
+        
+- **ajak** = to ask someone to join in an activity.
+    
+    - _mengajak_ = to ask/invite along (active).
+        
+    - _diajak_ = to be asked along.
+        
+    - _ajakan_ = invitation/request (more casual, oral).
+
+
+- **tetangga** = neighbor(s).
+    
+- **untuk** = for, to (used before verbs to show purpose).
+    
+- **datang** = to come, to arrive.
+
+- If you want to say neighbors are **coming over**, Indonesians would usually say:  
+    _“Tetangga datang.”_ = “The neighbors came/are coming.”
+    
+- If it’s about **inviting neighbors**, they would say:  
+    _“Mengundang tetangga untuk datang.”_ = “(We) invited neighbors to come.”
+
+
+
+
+- **tamu** = guest (singular).
+    
+- **tamu-tamu** = guests (plural).
+
+
+- Indonesians often use **reduplication** (repeating a word) to show plural form.  
+    Example: _tamu-tamu_ = guests.
+    
+- However, in daily life, people often just say **para tamu** (“the guests”) in formal settings, or just **tamu** (without repeating) if the context already shows plurality.
+
+
+**“Gambar untuk hadiah anak saya”** = **“A picture/drawing for my child’s gift.”**
+
+- **gambar** = picture, drawing, image.
+    
+- **untuk** = for (to show purpose).
+    
+- **hadiah** = gift, present, prize.
+    
+- **anak** = child.
+    
+- **saya** = my.
+
+
+
+- **pasti** = certain, definite, surely.
+    
+- **senang** = happy, glad, pleased, also can mean comfortable.
+
+
 ![](Pasted%20image%2020250918203346.png)
+
+1. mengajak
+2. berbelanja
+3. membawa
+4. menelepon
+5. mengikut
+6. kembali
+7. mencari
+8. mengganggu
+9. menunggu
+10. mengobrol
+
+**“bagaimana”** means **“how”**.  
+It’s used to ask about the manner, condition, or state of something.
+
+- _Bagaimana kabarmu?_ → “How are you?”
+    
+- _Bagaimana cara ke bandara?_ → “How do I get to the airport?”
+
+Indonesians often use **“bagaimana”** in greetings or polite questions. For example, _“Bagaimana kabar Bapak/Ibu?”_ is a very polite way to ask “How are you?” especially in formal or respectful settings. It shows care and attention to the other person.
+
+**uang** = **money**.
+
+**jadi** can mean several things depending on context:
+
+1. **“So / therefore”** (connector, showing result or conclusion).
+    
+    - _Jadi, kita pergi besok._ → “So, we’ll go tomorrow.”
+        
+2. **“To become”** (verb).
+    
+    - _Dia jadi dokter._ → “He became a doctor.”
+        
+3. **“Done / finished / agreed”** (informal confirmation).
+    
+    - _Jadi ya?_ → “So it’s set / agreed?”
+
+
+✅ The correct form is:  
+**“Jadi XXX harus membawa banyak uang ya.”**  
+= “So XXX must bring a lot of money, right?”
+
+❌ **“berbawa”** is not correct. The word _berbawa_ does not exist in standard Indonesian.
+
+- **ganggu** = bother, disturb.
+    
+- Root form, commonly used in casual speech.
+
+**“Salam”** means _greeting_ or _peace_ in Indonesian. It is borrowed from Arabic
+
+- **Salam hangat** = Warm regards
+    
+- **Salam hormat** = Respectful regards
+    
+- **Salam kenal** = Nice to meet you (lit. “introducing greeting”)
