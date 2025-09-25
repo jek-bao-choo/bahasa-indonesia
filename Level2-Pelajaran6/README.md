@@ -555,12 +555,14 @@ Common derived forms:
 2. berbelanja
 3. membawa
 4. menelepon
-5. mengikut
+5. ikut (mengikuti)
 6. kembali
 7. mencari
 8. mengganggu
 9. menunggu
 10. mengobrol
+
+mengundang = undang
 
 **“bagaimana”** means **“how”**.  
 It’s used to ask about the manner, condition, or state of something.
