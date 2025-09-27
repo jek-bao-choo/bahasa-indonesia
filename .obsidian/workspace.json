@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac1f006598172c9c",
+        "id": "e2baee688658d70c",
         "type": "tabs",
         "children": [
           {
-            "id": "fae86aa20f41bc50",
+            "id": "aaf8a649de9b50b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level2-Pelajaran7/README.md",
+                "file": "Level2-Pelajaran8/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb6ca81e8684ef0",
+  "active": "aaf8a649de9b50b5",
   "lastOpenFiles": [
+    "Level2-Pelajaran7/README.md",
+    "Level2-Pelajaran7/Screenshot_2025-09-27T12-02-37_UTC+0800@2x.png",
     "Level2-Pelajaran8/README.md",
     "Level2-Pelajaran8/Screenshot_2025-09-25T20-35-17_UTC+0800.png",
     "Level2-Pelajaran8/Screenshot_2025-09-25T20-35-04_UTC+0800.png",
@@ -181,10 +183,8 @@
     "Level2-Pelajaran8/Screenshot_2025-09-25T20-30-27_UTC+0800.png",
     "Level2-Pelajaran8/Screenshot_2025-09-25T20-30-19_UTC+0800.png",
     "Level2-Pelajaran8/Screenshot_2025-09-25T20-28-45_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-28-06_UTC+0800.png",
     "Level2-Pelajaran6/README.md",
     "Level2-Pelajaran5/README.md",
-    "Level2-Pelajaran7/README.md",
     "Level2-Pelajaran8",
     "Pakaian dan warna.pptx",
     "Level2-Pelajaran7",

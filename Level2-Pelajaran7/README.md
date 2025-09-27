@@ -265,9 +265,16 @@ coklat mudah
 Abu-abu = grey
 ungu = purple
 
+![](Screenshot_2025-09-27T12-02-37_UTC+0800@2x.png)
+
 ![](Screenshot_2025-09-23T19-37-03_UTC+0800.png)
 
 Tulis nama nama merika. 
+
+- Root word: **suai** → “to be fitting, to be in harmony, to match.”
+    
+- Prefix **se-** → “as” or “according to.”  
+    Together: **sesuai** → “as fitting / as appropriate / in accordance with.”
 
 
 ![](Screenshot_2025-09-23T19-37-19_UTC+0800.png)
@@ -277,7 +284,92 @@ Tulis nama nama merika.
 3. Martin
 4. John
 
+--- 
+
+
+- **Dian** is most commonly a **female name** in Indonesia.
+    
+- However, it can also be **unisex**: there are men named **Dian** as well. So, it’s not strictly male or female — but people more often associate it with women.
+
+**Pingkan** is a **female name** in Indonesia.  
+It is **not** commonly used for men.
+
+- **Pingkan** comes from North Sulawesi (Manado, Minahasan culture).
+    
+- It is a traditional given name for girls.
+    
+- The exact meaning is not always emphasized today, but in local usage, it’s a **classic feminine name**, similar to _Maria_ or _Ayu_ in other regions.
+
+
+
 ![](Screenshot_2025-09-23T19-41-25_UTC+0800.png)
+
+**PR** = _pekerjaan rumah_ (“homework”). In school contexts, **PR** almost always means homework (not _public relations_).
+
+
+- **apakah** → a question word, used to make a yes/no question sound formal.
+    
+- **Teguh** → a male name, common in Indonesia. It literally means “firm/steadfast.”
+    
+- **mau** → want / going to. Common in daily speech to indicate desire or intention.
+    
+- **datang** → to come.
+    
+- **ke** → to (direction, movement).
+    
+- **rumah** → house, home.
+    
+- **Dian** → an Indonesian name; can be male or female, though often female.
+
+**Sentence:** _apakah Teguh mau datang ke rumah Dian?_
+
+This means: **“Does Teguh want to come to Dian’s house?”**
+
+---
+
+
+### 1. Answer in English
+
+Both **“mengapa”** and **“kenapa”** mean **“why.”**
+
+- **Mengapa** → more formal, often used in writing, school, news, or polite situations.
+    
+- **Kenapa** → more common in **daily conversation**, casual speech, and even polite talk with friends or family.
+    
+
+So:
+
+- _Mengapa kamu sedih?_ → “Why are you sad?” (formal)
+    
+- _Kenapa kamu sedih?_ → “Why are you sad?” (casual, everyday).
+    
+
+---
+
+### 2. Cultural usage
+
+Indonesians rarely use _mengapa_ in casual conversation because it sounds a bit stiff or “bookish.” You’ll see it in essays, school exams, and newspapers.  
+In daily life, almost everyone says _kenapa_.
+
+---
+
+### 3. Word meanings
+
+- **mengapa** → why (formal).
+    
+- **kenapa** → why (informal/casual).
+    
+
+---
+
+### 4. Word breakdown
+
+- **mengapa** → _meN-_ (prefix for forming verbs/questions) + _apa_ (what). Literally “what is the cause.”
+    
+- **kenapa** → from _ke_ (to/at/on, here acting like “because of”) + _apa_ (what). Literally “because of what.”
+
+--- 
+
 
 pakai-memakai
 
@@ -290,6 +382,10 @@ Blus dipakai ibu
 1. Warna kesukaan Pingkan biru. / Warna favorit Pingkan biru.
 2. Pingkan memakai sepatu ukuran 39.
 3. Karena dia masih harus membuat PR.
+
+---
+
+
 
 ![](Screenshot_2025-09-23T19-54-18_UTC+0800.png)
 
@@ -337,53 +433,14 @@ Sebenarnya saya juga suka belanja, tetapi saya sedang hemat uang sekarang. Apa p
 **Linda:**  
 Sebenarnya dia suka belanja juga, tetapi dia sibuk kerja akhir-akhir ini.
 
-
---- 
-
-**Sari:**  
-Kamu mau ke mal di Malioboro?
-
-**Linda:**  
-Sebenernya aku pengin sih, tapi lagi banyak tugas kuliah. Kamu kan doyan belanja ya?
-
-**Sari:**  
-Sebenernya aku juga suka belanja, tapi lagi harus hemat duit. Pacarmu biasanya ikut belanja juga nggak?
-
-**Linda:**  
-Sebenernya dia suka juga, tapi lagi sibuk kerja belakangan ini.
-
----
-
-### 📖 English Explanation
-
-- **Kamu mau ke mal di Malioboro?**  
-    = "Do you want to go to the mall in Malioboro?"  
-    _(Casual version of “Anda mau pergi…” — “kamu” is friendlier and more common.)_
-    
-- **Sebenernya aku pengin sih, tapi lagi banyak tugas kuliah.**  
-    = "Actually I do want to, but I have a lot of college assignments right now."  
-    _(“Sebenernya” = casual form of “sebenarnya”; “pengin” = casual Javanese-influenced word for “want to.”)_
-    
-- **Kamu kan doyan belanja ya?**  
-    = "You like shopping, don’t you?"  
-    _(“kan” adds a friendly confirmation tone, very common in daily conversation.)_
-    
-- **Sebenernya aku juga suka belanja, tapi lagi harus hemat duit.**  
-    = "Actually I also like shopping, but I have to save money right now."  
-    _(“duit” is the casual word for “money.”)_
-    
-- **Pacarmu biasanya ikut belanja juga nggak?**  
-    = "Does your boyfriend usually go shopping with you?"  
-    _(“nggak” = casual form of “tidak.”)_
-    
-- **Sebenernya dia suka juga, tapi lagi sibuk kerja belakangan ini.**  
-    = "Actually he likes it too, but he’s been busy with work lately."
-
+	**“Akhir-akhir”** is the **reduplication of “akhir”** (end/last).
 
 
 Pacar saya mencari barang-barang lain.
 
 traktir
+	**“Traktir”** means **“to treat someone (to food or drink)”**, usually when you pay for them.  
+	**traktir** = borrowed from Dutch **“trakteren”** (to treat, to give).
 
 Pacar saya menraktir saya
 
