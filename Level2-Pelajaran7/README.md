@@ -1,5 +1,96 @@
 
 ![](Screenshot_2025-09-23T19-06-35_UTC+0800.png)
+Menceritakan
+
+- **Root:** _cerita_ = story.
+    
+- **Prefix:** _me-_ → makes the word into an active verb (to do something).
+    
+- **Suffix:** _-kan_ → indicates the action is being done _for or to someone else_.
+    
+- **Full form:** _menceritakan_ = “to tell/narrate something (to someone).”
+    
+
+	Compare:
+	
+	- **bercerita** = to tell a story (in general, not necessarily to someone).
+	    
+	- **menceritakan** = to tell/narrate _something to someone_.
+
+
+Sebaliknya
+
+- **balik** = turn, return, reverse.
+    
+- **se-** = prefix meaning “the” or “one” (makes it a noun-like form).
+    
+- **-nya** = possessive/definite marker (“its”).
+    
+- **sebaliknya** = literally “the reverse/its opposite.”
+
+
+mendapat
+
+- **Root:** _dapat_ = can, able, to get.
+    
+- **Prefix:** _men-_ (from _me-_) → active verb, makes it “to do the action of getting.”
+    
+- **Full form:** _mendapat_ = to get/receive something.
+
+
+## 1. General Meanings
+
+- **dapat** → _can / to get / to obtain_.
+    
+- **bisa** → _can / able to (ability)_.
+    
+- **boleh** → _may / allowed to (permission)_.
+    
+
+---
+
+## 2. Cultural & Daily Usage
+
+- **dapat** is a bit more formal, often used in writing, reports, or polite speech. In everyday talk, Indonesians prefer **bisa** instead.
+    
+- **bisa** is the most common way to say _can_ (ability).
+    
+- **boleh** is usually about _permission_. In Indonesian culture, asking with **boleh** is more polite than using **bisa** when requesting something.
+    
+
+---
+
+## 3. Word Meaning in Conversation
+
+- **dapat**
+    
+    1. _to get / obtain_ → _Saya dapat hadiah_ = I got a gift.
+        
+    2. _can (formal)_ → _Anda dapat menghubungi kami_ = You can contact us.
+        
+- **bisa**  
+    = ability → _Saya bisa berenang_ = I can swim.
+    
+- **boleh**  
+    = permission → _Boleh saya duduk di sini?_ = May I sit here?
+
+--- 
+
+- **hadiah** = gift / present / prize.  
+    In conversation:
+    
+- _Dia kasih saya hadiah._ = He/She gave me a gift.
+    
+- _Apa hadiahnya kalau menang?_ = What’s the prize if you win?
+
+- **Root:** _hadiah_ (Arabic origin: هدية _hadiyyah_ = gift, offering).
+    
+- No prefix/suffix here; it’s a base noun.
+
+---
+
+
+
 
 - **Waduh** → an interjection, similar to “oh dear” / “oops,” used when something unfortunate happens.
     
@@ -25,7 +116,61 @@
     
 - **Murah sekali** → “very cheap.”
 
+
+
+- **kota** = city, town.  
+    Examples:
+    
+- _Dia tinggal di kota._ = He/She lives in the city.
+    
+- _Besok saya mau pergi ke kota._ = Tomorrow I want to go to town.
+
+
+Mahasiswa B tidak bisa ikut konferensi di luar kota karena dia harus menjaga orang tuanya. 
+
+Mahasiswa A punya tiket menonton konser yang terkenal. Tapi pada hari H-nya, dia tidak bisa pergi karena hujan. Kalau begitu, dia bisa menonton itu di televisi. 
+
+Mahasiswa B melihat ada barang yang dijual murah sekali di toko. Tapi tidak bisa membelinya karena dia kurang uang dan mau hemat uang untuk membeli rumah.
+
+Alternative: Mahasiswa B melihat ada barang yang dijual sangat murah di toko. Tetapi dia tidak bisa membelinya karena kekurangan uang dan ingin menghemat untuk membeli rumah.
+	- - **ke- ... -an** → circumfix that turns a verb/adjective/noun into a noun, often abstract.
+    
+	- **kurang** → root word meaning _less, lacking, not enough_.
+	    
+	- So **“kekurangan”** literally means _the state of being lacking_.
+
+---
+**peran** → noun, meaning _role / character / function_. Comes from Javanese origin but widely used.
+
+**“Masing-masing”** means **each, respectively, one by one**.
+
+
+--- 
+
 hari H-nya = D day.
+
+
+___
+Keluarga saya
+
+Keluarga saya terdiri dari empat bersaudara. Saya sudah punya anak-anak, dan sekarang tinggal di Singapura. Saya suka makanan Asia, tetapi kurang suka makanan yang terlalu asin, manis, berlemak, atau digoreng. Sebaliknya, anak-anak saya senang dengan makanan asin dan manis.
+
+	terdiri
+	- **Root word:** _diri_ = “self” or “oneself”.
+    
+	- **Prefix:** _ter-_ = indicates a state or condition, sometimes “can be” or “accidentally”.
+	    
+	- **ter- + diri → terdiri** = “to be made up (of selves/parts)” → “to consist of”.
+
+- **Root word:** _lalu_ = can mean “past/then/pass by” depending on context.
+    
+- **Prefix:** _ter-_ = indicates a state/condition.
+    
+- **ter- + lalu → terlalu** = “gone too far” → “excessive”.
+
+---
+
+
 
 ![](Screenshot_2025-09-23T19-09-09_UTC+0800.png)
 
