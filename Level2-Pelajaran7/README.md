@@ -173,10 +173,34 @@ Keluarga saya terdiri dari empat bersaudara. Saya sudah punya anak-anak, dan sek
 
 
 ![](Screenshot_2025-09-23T19-09-09_UTC+0800.png)
+- Root word: **paham** = to understand / aware.
+    
+- Prefix **pe-** + suffix **-an** → **pemahaman**.  
+    This turns the verb/adjective “paham” (understand) into a noun “pemahaman” (understanding).
+
 
 
 
 ![](Screenshot_2025-09-23T19-33-43_UTC+0800@2x.png)
+
+### Word meanings in modern daily conversation
+
+- **kemeja**: “shirt” (button-up, with collar; _not_ a T-shirt).
+    
+- **lengan**: “arm” or “sleeve”.
+    
+    - _lengan baju_ = shirt sleeve.
+        
+    - _lengan kiri/kanan_ = left/right arm.
+        
+
+---
+
+### Word breakdown (prefix, suffix, root)
+
+- **kemeja**: borrowed from Portuguese _camisa_ (shirt). Root = _meja_ (but here not “table”; different origin).
+    
+- **lengan**: root = _lengan_ (arm). No affix.
 
 ![](Screenshot_2025-09-23T19-34-02_UTC+0800@2x.png)
 
@@ -187,7 +211,44 @@ Keluarga saya terdiri dari empat bersaudara. Saya sudah punya anak-anak, dan sek
 
 ![](Screenshot_2025-09-23T19-34-29_UTC+0800@2x.png)
 
+### Word meaning in modern conversation
+
+- **jas**: jacket/blazer (formal wear).  
+    Example: _Dia pakai jas hitam di pesta pernikahan._  
+    → “He wore a black suit jacket at the wedding party.”
+    
+
+---
+
+### Word breakdown
+
+- **jas**: loanword from Dutch _jas_ (coat/jacket).
+    
+- No prefixes or suffixes, it is a standalone noun.
+
+**dasi**: borrowed from Dutch _das_ (tie, scarf).
+
 ![](Screenshot_2025-09-23T19-34-38_UTC+0800@2x.png)
+
+### Word breakdown (prefix, suffix, root)
+
+- Root: **olah** = to process, manage, work on.
+    
+- **raga** = body.
+    
+- Combined: **olah-raga** = “processing/working the body” → sport, exercise.
+
+✅ **berolahraga** → correct and common = _to exercise / to play sports_.
+
+- Example: _Saya berolahraga setiap pagi._ → “I exercise every morning.”
+    
+
+✅ **olahraga** (by itself as a verb) is also used in casual speech, though grammatically it’s a noun.
+
+- Example: _Saya olahraga pagi tadi._ → “I exercised this morning.”
+    
+
+❌ **mengolahraga** → **NOT correct** in standard Indonesian. It’s not used.
 
 ![](Screenshot_2025-09-23T19-34-48_UTC+0800@2x.png)
 
@@ -196,6 +257,9 @@ Keluarga saya terdiri dari empat bersaudara. Saya sudah punya anak-anak, dan sek
 Biru tua = dark blue
 biru muda = light blue
 Jingga / oranye = orange
+	**jingga** = _orange_ (the color, not the fruit).
+
+	For the fruit, Indonesians say **jeruk**, not _jingga_.
 Coklat tua 
 coklat mudah
 Abu-abu = grey
@@ -204,7 +268,6 @@ ungu = purple
 ![](Screenshot_2025-09-23T19-37-03_UTC+0800.png)
 
 Tulis nama nama merika. 
-
 
 
 ![](Screenshot_2025-09-23T19-37-19_UTC+0800.png)
