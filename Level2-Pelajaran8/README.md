@@ -121,7 +121,6 @@ Indonesians use **di situ** when both people know the location being referred to
 
 ![](Screenshot_2025-09-25T19-40-26_UTC+0800.png)
 
->>> Mulai dari sini
 
 ![](Screenshot_2025-09-25T19-45-54_UTC+0800.png)
 
@@ -134,6 +133,9 @@ Hari ini tante saya tidak pergi ke pasar. Dia akan pergi ke kantor pos karena ne
 
 Dari kantor pos, tante saya mau pergi ke bioskop untuk _______memonton____________(9.tonton) film dengan temannya. Sesudah itu mereka akan pergi ke kafe untuk minum kopi dan_______mengobrol______ (10.obrol) di sana.
 
+---
+
+
 **Please fill in the blanks with the correct verb form (simple verb, ber-verb or meN-verb).**
 
 Minggu ini saya sibuk sekali . Hari Senin pagi, saya harus bangun pagi-pagi sekali karena ibu saya  _______mengajak_________ (1.ajak) saya pergi ke pasar. Ibu saya pandai_______menawar_________(2.tawar) , jadi saya mau _______belajar___________ (3. ajar)  dari dia. Sesudah  itu kami makan pagi di warung kopi. Kami  _________memesan_________ (4.pesan) 2 porsi lontong sayur.
@@ -143,6 +145,24 @@ Hari Rabu siang, saya pergi ke kantor pos yang ada di dekat rumah saya,  karena
 Besoknya, pacar saya dan saya pergi ke Hotel Shangrila. Kami mau _________menyewa_____________  (8.sewa) _Grand Ballroom_ di sana untuk pesta pernikahan kami tahun depan. Wah, mahal sekali ya. Kami__________membayar_______________ (9. bayar) deposit $ 5.000.  Kami juga _________mencoba____________ (10.coba) makanan di sana. Makanannya enak sekali!
 
 
+---
+- **cucu** → root word, meaning _grandchild_.
+    
+- **cucu-cucu** → reduplication to indicate plural (_grandchildren_).
+    
+- **-nya** → possessive suffix (_his/her/their_).
+
+- **Mampir** = to stop by / drop by (usually at someone’s house, shop, or place while on the way to somewhere else).
+
+- **Sewa** = rent / to rent / hire (depending on context).
+
+- As a **noun** → _“sewa rumah”_ = house rent.
+    
+- As a **verb** → _“saya sewa mobil”_ = I rent a car.
+
+- - **nikah** = to marry (verb) or marriage (noun).
+    
+- **pernikahan** = marriage/wedding (noun, more formal and abstract).
 ---
 
 Memorise the simple verb.
@@ -165,11 +185,22 @@ Try to find other exceptions.
 
 ![](Screenshot_2025-09-25T20-23-52_UTC+0800.png)
 
+**Pusat** = center / central / main point / core.
 
-
-![](Screenshot_2025-09-25T20-26-10_UTC+0800.png)
 
 ![](Screenshot_2025-09-25T20-27-17_UTC+0800.png)
+
+- Root: **omong** = to talk (a bit old-fashioned but still understood).
+    
+- Prefix: **ng-** (colloquial form for speaking, Javanese-influenced).
+    
+- Reduplication: **ngomong-ngomong** makes it into an idiomatic phrase, no longer just “talk-talk” but “by the way.”
+
+- - **akhir** = end.
+    
+- **minggu** = week. (_minggu_ can also mean “Sunday,” but in this phrase it means “week.”)
+    
+- Together: **akhir minggu** = end of the week → weekend.
 
 ![](Screenshot_2025-09-25T20-28-06_UTC+0800.png)
 
@@ -189,7 +220,7 @@ Ayo = Yuk
 
 ![](Screenshot_2025-09-25T20-33-40_UTC+0800.png)
 
-Ayo = lets 
+Ayo = let's 
 
 ![](Screenshot_2025-09-25T20-33-58_UTC+0800.png)
 
@@ -197,3 +228,23 @@ Ayo = lets
 
 ![](Screenshot_2025-09-25T20-35-17_UTC+0800.png)
 
+### Word-by-word meaning and daily usage
+
+- **obral** = clearance sale (noun/verb).
+    
+    - As a verb: _“Toko itu mengobral baju lama.”_ = That shop is clearing out old clothes.
+        
+    - As a noun: _“Ada obral di pasar.”_ = There’s a clearance sale at the market.
+        
+
+---
+
+### 4. Morphology breakdown
+
+- **obral** = root word (loanword from Dutch _opruimen_, meaning “to clear out”).
+    
+- Derived forms:
+    
+    - **mengobral** = to put on clearance / to sell cheaply.
+        
+    - **diobral** = being sold on clearance.
