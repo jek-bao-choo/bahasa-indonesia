@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e5ca57f79b518f",
+        "id": "8c3b3d7415df76d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a46dccbd27225d41",
+            "id": "d85f770cfdacdbf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Level2-Pelajaran10/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -165,22 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb6ca81e8684ef0",
+  "active": "d85f770cfdacdbf5",
   "lastOpenFiles": [
-    "Level2-Pelajaran8/README.md",
+    "Level2-Pelajaran10/README.md",
+    "Level2-Pelajaran10",
     "Level2-Pelajaran9/README.md",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-27-46_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-31-22_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-24-18_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-27-08_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-22-36_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-18-12_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-15-56_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-13-51_UTC+0800.png",
+    "Level2-Pelajaran9/Screenshot_2025-09-30T20-12-47_UTC+0800.png",
+    "Level2-Pelajaran8/README.md",
     "Level2-Pelajaran9",
     "Level2-Pelajaran7/README.md",
     "Level2-Pelajaran7/Screenshot_2025-09-27T12-02-37_UTC+0800@2x.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-35-17_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-35-04_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-33-58_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-33-40_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-31-50_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-26-10_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-30-27_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-30-19_UTC+0800.png",
-    "Level2-Pelajaran8/Screenshot_2025-09-25T20-28-45_UTC+0800.png",
     "Level2-Pelajaran6/README.md",
     "Level2-Pelajaran5/README.md",
     "Level2-Pelajaran8",
