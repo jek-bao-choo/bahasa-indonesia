@@ -1,9 +1,22 @@
 
 ![](Screenshot_2025-10-02T19-06-09_UTC+0800.png)
 
+bangsa = nation / people 
+
+**“Lulus dari sekolah itu”** means **“to graduate from that school”** or **“to have passed from that school.”**
+
+- **lulus** → to pass / graduate
+    
+- **dari** → from
+
+|Word|English meaning|Function|Typical position|
+|---|---|---|---|
+|**ada**|_there is / there are / exist(s)_|expresses **existence or presence**|before the object (like “there is a book”)|
+|**adalah**|_is / are / am_|used to **define or describe** something formally|between subject and complement (like “X is Y”)|
+
 pesan = order
-SD 6 tahun Sekolah Dasar (SD kelas satu, dua, ..., enam)
-SMP 3 tahun Sekolah Menengah Pertama (SMP kelas satu, dua, )
+SD (Sekolah Dasar) 6 tahun  (SD kelas satu, dua, ..., enam)
+SMP (Sekolah Menengah Pertama) 3 tahun  (SMP kelas satu, dua, )
 SMA 3 tahun (SMA kelas satu, dua, tiga)
 Universitas (S1, Sarjana 1, S1 Kuliah tingkat 1 --- S1 is bachelor, s2 is master, S1 kuliah tingkat 1 is bachelor year 1)
 
