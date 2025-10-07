@@ -9,10 +9,10 @@ bangsa = nation / people
     
 - **dari** → from
 
-|Word|English meaning|Function|Typical position|
-|---|---|---|---|
-|**ada**|_there is / there are / exist(s)_|expresses **existence or presence**|before the object (like “there is a book”)|
-|**adalah**|_is / are / am_|used to **define or describe** something formally|between subject and complement (like “X is Y”)|
+| Word       | English meaning                   | Function                                          | Typical position                               |
+| ---------- | --------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
+| **ada**    | _there is / there are / exist(s)_ | expresses **existence or presence**               | before the object (like “there is a book”)     |
+| **adalah** | _is / are / am_                   | used to **define or describe** something formally | between subject and complement (like “X is Y”) |
 
 pesan = order
 SD (Sekolah Dasar) 6 tahun  (SD kelas satu, dua, ..., enam)
