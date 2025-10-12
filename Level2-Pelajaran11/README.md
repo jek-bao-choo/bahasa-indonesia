@@ -58,12 +58,26 @@ Objek + Subject + Predicate untuk kata ganti orang pertama.
 
 ![](Screenshot_2025-10-07T19-34-49_UTC+0800.png)
 
-Mulai dari sini --> 
+
 
 
 ![](Screenshot_2025-10-07T19-35-03_UTC+0800.png)
 
 **miskin** = _poor_ (financially or materially)
+
+_eja_ = spell
+
+**“Kalian”** means **“you all”** or **“you (plural)”**
+
+
+Menghukum
+- **hukum** → law, rule
+    
+- **hukuman** → punishment, penalty
+    
+- **dihukum** → to be punished (passive)
+
+
 
 1. Orang miskin itu harus Anda tolong.
 2. Villa untuk liburan akan kami sewa.
@@ -72,8 +86,12 @@ Mulai dari sini -->
 	2. Nama teman Andy tidak bisa dieja oleh Andy.
 4. Apa tamu sedang kamu tunggu?
 5. Apa anakmu sedang kamu hukum?
+6. Apa anakmu sedang kamu hukum?
 
 ![](Screenshot_2025-10-07T19-49-21_UTC+0800.png)
+
+
+Mulai dari sini --> 
 
 
 ![](Screenshot_2025-10-07T19-53-28_UTC+0800.png)
