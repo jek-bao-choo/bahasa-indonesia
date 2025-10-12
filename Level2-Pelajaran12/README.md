@@ -123,3 +123,8 @@ Take note that rapat is specifically for meeting discussion. Not an appointment 
 
 ![](Pasted%20image%2020251009202355.png)
 
+
+![](Pelajaran%203.pdf)
+
+
+Jawab semua di PDF pelajaran 3

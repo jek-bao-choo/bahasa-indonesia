@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9161e58c4350112",
+        "id": "b55be9ca0275c87c",
         "type": "tabs",
         "children": [
           {
-            "id": "b104b4671a5c9049",
+            "id": "9994d717b97465d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level2-Pelajaran10/README.md",
+                "file": "Level2-Pelajaran11/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,10 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "b104b4671a5c9049",
+  "active": "9994d717b97465d1",
   "lastOpenFiles": [
-    "Level2-Pelajaran9/README.md",
+    "Level2-Pelajaran13/README.md",
+    "Level2-Pelajaran13",
     "Level2-Pelajaran12/README.md",
+    "Level2-Pelajaran11/README.md",
+    "Level2-Pelajaran11/Screenshot_2025-10-12T17-43-32_UTC+0800@2x.png",
+    "Level2-Pelajaran12/Pelajaran 3.pdf",
+    "Level2-Pelajaran10/README.md",
+    "Level2-Pelajaran9/README.md",
     "Pasted image 20251009203123.png",
     "Level2-Pelajaran12/Pasted image 20251009194018.png",
     "Level2-Pelajaran12/Pasted image 20251009202355.png",
@@ -182,11 +188,7 @@
     "Level2-Pelajaran12/Pasted image 20251009200127.png",
     "Level2-Pelajaran12/Pasted image 20251009200108.png",
     "Level2-Pelajaran12/Pasted image 20251009195457.png",
-    "Level2-Pelajaran12/Pasted image 20251009194556.png",
-    "Level2-Pelajaran11/README.md",
-    "Level2-Pelajaran10/Pelajaran 3.pdf",
     "Level2-Pelajaran12",
-    "Level2-Pelajaran10/README.md",
     "Level2-Pelajaran11",
     "Level2-Pelajaran10",
     "Level2-Pelajaran8/README.md",
@@ -198,7 +200,6 @@
     "Pakaian dan warna.pptx",
     "Level2-Pelajaran7",
     "Level2-Pelajaran5/pelajaran5.m4a",
-    "Level2-Pelajaran5/pelajaran5lagi.m4a",
     "Level2-Pelajaran3/README.md",
     "Level2-Pelajaran4/README.md",
     "README.md",

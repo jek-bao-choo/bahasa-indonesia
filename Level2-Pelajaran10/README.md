@@ -73,10 +73,16 @@ Membeli: Istri saya sudah membeli sayur-sayuran dan buah-buahan dari pasar sore 
 Mengundang: Saya mengundang Bapak saya untuk datang ke rumah saya. (Bapak saya diundang untuk datang ke rumah saya.)
 
 
-Mulai dari ini --> 
+
 
 
 ![](Screenshot_2025-10-02T19-19-54_UTC+0800.png)
+
+ujian = exam / test
+
+**Angkat** means **“to lift,” “to raise,”** or **“to pick up.”**
+
+
 
 1. belajar
 2. mencari
@@ -96,7 +102,14 @@ olahraga lari.
 
 lari marathon.
 
+
+
 ![](Screenshot_2025-10-02T19-41-30_UTC+0800.png)
+
+**Memerlukan** means **“to need”** or **“to require.”**  
+It comes from the root **“perlu”**, which means **“necessary”** or **“need.”*
+
+**Keterangan tempat** means **“adverb of place”** or literally **“information about location.”**
 
 Subject + Predicate + Object
 
@@ -106,6 +119,9 @@ Subject + Predicate + Object
 
 
 ![](Screenshot_2025-10-02T19-46-14_UTC+0800.png)
+
+**Mereka** means **“they”** or **“them.”**
+
 
 
 **Jadi** can mean:
@@ -142,6 +158,9 @@ O: buku "Laskar Pelangi"
 S: Andre
 P: memesan
 O: buku itu
+
+
+
 ![](Screenshot_2025-10-02T19-53-40_UTC+0800.png)
 
 
@@ -170,6 +189,15 @@ tamu = guest
 Judul = title
 
 
+**me- + pilih → memilih**
+
+- **me-** : active verb prefix meaning “to do” an action.
+    
+- **pilih** : root word meaning “choose”.  
+    ✅ So **memilih** literally means “to perform the act of choosing.”
+
+
+
 Dijawab oleh Jek:
 1. Di ruang tamu majalah dibaca oleh Pak Rudi
 2. Judul filmnya harus dicari oleh mereka
@@ -190,7 +218,7 @@ Dijawab oleh Jek:
 4. Kacang goren mau dimakan oleh kakak dan adik di bioskop
 5. PR sedang dibuat oleh mahasiswa itu di rumah.
 6. Mangga dipilih oleh ibu di pasar
-7. Kamar. hotel mau disewa oleh mereka untuk liburan / kamar hotel untuk liburan mau disewa oleh mereka
+7. Kamar hotel mau disewa oleh mereka untuk liburan / kamar hotel untuk liburan mau disewa oleh mereka
 8. Surat ditulis oleh Dang dan Danu kepada guru /  Surat kepada guru ditulis oleh Danang dan Danu
 
 
@@ -201,6 +229,6 @@ Dijawab oleh Jek:
 ![](Screenshot_2025-10-02T20-18-47_UTC+0800.png)
 
 
+Kata ganti orang pertama: Saya, Aku, Kami, Kita
+Kata ganti orang kedua: Kamu, Anda, Kalian
 
-
-![](Pelajaran%203.pdf)

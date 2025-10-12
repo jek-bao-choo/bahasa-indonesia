@@ -5,21 +5,24 @@
 
 ![](Screenshot_2025-10-07T19-12-18_UTC+0800.png)
 
-1. Aktif karena membaca
-2. Aktif karena membeli
-3. Aktif karena mengirim
-4. Aktif karena mencoba
-5. Aktif karena mengajak
-6. Aktif karena simple verb
-7. Aktif karena ...
-8. Aktif
-9. Aktif
-10. Pasif
-11. Pasif karena diajak... oleh... 
-12. Pasif karena dijual oleh...
+**“Rekan”** means **“colleague,” “associate,” “partner,”** or **“fellow.”**
+
+1. Koran sedang dibaca oleh Andy di ruang tamu
+2. Sayur dibeli oleh dia di pasar
+3. surat sudah dikirim oleh mereka di kantor pos
+4. PALING --> Apa rok baru adik sudah dicoba olehnya? 
+5. Kapan kita akan diajak oleh Andy dan Budi ke bioskop?
+6. -
+7. -
+8. -
+9. -
+10. -
+11. Sudah pasif  --> Aktif --> Adik saya selalu mengajak Anjing Andy jalan-jalan di taman. 
+12. Sudah pasif --> Aktif --> Bapak menjual produk perusahaannya di Amerika
 
 
 ![](Screenshot_2025-10-07T19-37-31_UTC+0800.png)
+
 
 
 ![](Screenshot_2025-10-07T19-37-39_UTC+0800.png)
@@ -29,10 +32,34 @@ The above is 1st person, 2nd person, and 3rd person
 
 ![](Screenshot_2025-10-07T19-30-08_UTC+0800.png)
 
+#### **halaman**
+
+- **Root word:** _laman_ (old form, meaning “yard” or “open area”)
+    
+- **Prefix/suffix:** _ha-...-an_ — a **noun-forming circumfix**  
+    → _halaman_ literally means “a space or area (of something)”
+
+
+**“Sering”** means **“often”** or **“frequently.”**  
+It describes how often something happens — an **adverb of frequency**.
+
+**Example:**
+
+- _Saya sering minum kopi pagi-pagi._  
+    → “I often drink coffee in the morning.”
+
+
+
+
 ![](Screenshot_2025-10-07T19-32-40_UTC+0800.png)
+
+Objek + Subject + Predicate untuk kata ganti orang pertama.
 
 
 ![](Screenshot_2025-10-07T19-34-49_UTC+0800.png)
+
+Mulai dari sini --> 
+
 
 ![](Screenshot_2025-10-07T19-35-03_UTC+0800.png)
 
@@ -121,3 +148,7 @@ The root word is lap, bom, pel and cat
 
 
 For homework do Latihan 2.
+
+
+![](Screenshot_2025-10-12T17-43-32_UTC+0800@2x.png)
+
