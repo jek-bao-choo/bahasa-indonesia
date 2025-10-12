@@ -20,15 +20,60 @@ SMP (Sekolah Menengah Pertama) 3 tahun  (SMP kelas satu, dua, )
 SMA 3 tahun (SMA kelas satu, dua, tiga)
 Universitas (S1, Sarjana 1, S1 Kuliah tingkat 1 --- S1 is bachelor, s2 is master, S1 kuliah tingkat 1 is bachelor year 1)
 
+**“Bapak”** literally means **“father”**
+
+
+**“Semoga”** means **“I hope…”** or **“May (it be that)…”**
+
+
 
 ![](Screenshot_2025-10-02T19-15-02_UTC+0800.png)
 
 Pembantu = helper (maid)
 
+**“Tukang”** means **“craftsman,” “worker,” or “tradesperson.”**
+
+alamat = address
+
+
 ![](Screenshot_2025-10-02T19-17-42_UTC+0800.png)
 
 
+
+
 ![](Screenshot_2025-10-02T19-19-14_UTC+0800.png)
+
+Lulus: Anak saya lulus TD tahun ini, tahun depan masuk SD.
+
+Pergi: Saya pergi ke pasar.
+
+Ada: Saya ada banyak proyek.
+
+Berumur: Anak saya berumur enam tahun.
+
+Belajar: Saya baru belajar Bahasa Indonesia.
+
+Bermain: Anak saya suka banget bermain sepeda.
+
+|Expression|Meaning|Form|Naturalness|Typical Use|
+|---|---|---|---|---|
+|**Sangat suka**|Really like|Formal/polite|✅ Very natural|Business, polite writing|
+|**Suka sekali**|Really like|Neutral/polite|✅ Very natural|Formal or casual speech|
+|**Suka banget**|Really love|Informal/friendly|✅ Very common|Friendly talk|
+|**Banyak suka**|Many likes (quantity)|Different meaning|⚠️ Only for social media|“Likes” count context|
+
+Berenang: Saya berenang di kolam renang yang tidak jauh dari kantor. (Saya berenang di kolam dekat kantor.)
+
+Memesan: Dia sudah memesan makanan untuk semua orang. (Dia sudah pesan makanan buat kita semua.)
+
+Memasak: Mbak di rumah sudah memasak makan malam buat keluarga. (Mbak sudah siapin makan malam buat keluarga.) (Makan malam sudah dimasak oleh Mbak untuk keluarga.) 
+
+Membeli: Istri saya sudah membeli sayur-sayuran dan buah-buahan dari pasar sore ini. (Sayur-sayuran dan buah-buahan sudah dibeli oleh istri saya dari pasar sore ini.)
+
+Mengundang: Saya mengundang Bapak saya untuk datang ke rumah saya. (Bapak saya diundang untuk datang ke rumah saya.)
+
+
+Mulai dari ini --> 
 
 
 ![](Screenshot_2025-10-02T19-19-54_UTC+0800.png)
