@@ -91,7 +91,7 @@ Menghukum
 ![](Screenshot_2025-10-07T19-49-21_UTC+0800.png)
 
 
-Mulai dari sini --> 
+
 
 
 ![](Screenshot_2025-10-07T19-53-28_UTC+0800.png)
@@ -102,7 +102,34 @@ Report and writing are in pasif form. Pasif form is more polite.
 
 ![](Screenshot_2025-10-07T19-56-34_UTC+0800.png)
 
+**“Pria”** means **“man”** or **“male (adult man)”** in English.  
+It is a **formal and polite** way to refer to a man, especially in writing or formal conversation.
+On **official forms** (e.g. “Jenis kelamin: Pria / Wanita” → “Gender: Male / Female”).
+
+
 ![](Screenshot_2025-10-07T19-58-23_UTC+0800.png)
+
+**“Gelap”** means **“dark”** — it refers to a lack of light or brightness.
+
+|Word|Root|Affixes|Meaning|
+|---|---|---|---|
+|**terbitlah**|_terbit_|suffix _-lah_|“rise” (as in the sun rising), with _-lah_ to make it emphatic or expressive (e.g., “Let it rise”)|
+|**terang**|_terang_|none|“bright,” “light,” “clear”|
+
+This phrase is very **famous in Indonesian history** because of **R.A. Kartini**, a national heroine who fought for women’s education and equality.  
+Her collection of letters was published under the title **_“Habis Gelap Terbitlah Terang”_**, meaning **“Out of Darkness Comes Light.”**
+
+In Indonesian culture, this phrase symbolizes:
+
+- Enlightenment
+    
+- Education and progress
+    
+- Hope after hardship
+
+**“Merdeka”** means **“independent,” “free,”** or **“freedom.”**
+
+
 
 
 ![](Screenshot_2025-10-07T19-58-29_UTC+0800.png)
@@ -113,8 +140,38 @@ Pemesan with pe is the person. The person order.
 
 ![](Screenshot_2025-10-07T20-03-46_UTC+0800.png)
 
+Impersonal passive sentences is the key to the above.
 
 ![](Screenshot_2025-10-07T20-07-09_UTC+0800@2x.png)
+
+| Word          | Root    | Prefix/Suffix              | Meaning                         |
+| ------------- | ------- | -------------------------- | ------------------------------- |
+| **pengarang** | _arang_ | prefix _pe-_, infix _-ng-_ | someone who creates or composes |
+
+|Phrase|Meaning|Example|
+|---|---|---|
+|**Pusat kota**|city center|_Hotel ini dekat pusat kota._ → “This hotel is near the city center.”|
+|**Pusat perbelanjaan**|shopping center / mall|_Kita pergi ke pusat perbelanjaan._|
+|**Kantor pusat**|head office|_Kantor pusatnya di Jakarta._|
+|**Pusat perhatian**|center of attention|_Dia jadi pusat perhatian._|
+|**Pusat data**|data center|_Kami menyimpan informasi di pusat data._|
+
+“Biro” has no prefix or suffix; it’s a **loanword from Dutch** _bureau_, which itself comes from French _bureau_ (desk or office).
+
+|Word|Root|Affixes|Meaning|
+|---|---|---|---|
+|**biro**|_biro_|none|office, bureau, agency|
+
+
+|Word|Root|Prefix/Suffix|Meaning|
+|---|---|---|---|
+|**berita**|from _ber- + cerita_ (old form)|prefix _ber-_|story / report / news|
+
+Historically, _berita_ came from **Malay “bercerita”** (to tell a story).  
+So literally, _berita_ = “something that is told.”
+
+
+
 
 Pasif sentence there is no agent.
 
@@ -136,6 +193,8 @@ Pasif sentence there is no agent.
 ![](Screenshot_2025-10-07T20-18-45_UTC+0800.png)
 
 
+
+
 ![](Screenshot_2025-10-07T20-19-52_UTC+0800.png)
 
 Mereka is an exception that can use as 3rd person, 1st person and 2nd person.
@@ -151,6 +210,7 @@ The root word is lap, bom, pel and cat
 
 ![](Screenshot_2025-10-07T20-25-04_UTC+0800.png)
 
+Jawab Jek:
 1. Pasif
 2. Active
 3. Pasif
@@ -164,6 +224,7 @@ The root word is lap, bom, pel and cat
 
 ![](Screenshot_2025-10-07T20-30-41_UTC+0800.png)
 
+Mulai dari sini --> 
 
 For homework do Latihan 2.
 
