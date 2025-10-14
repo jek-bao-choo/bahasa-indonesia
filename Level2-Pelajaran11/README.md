@@ -224,10 +224,19 @@ Jawab Jek:
 
 ![](Screenshot_2025-10-07T20-30-41_UTC+0800.png)
 
-Mulai dari sini --> 
-
-For homework do Latihan 2.
 
 
 ![](Screenshot_2025-10-12T17-43-32_UTC+0800@2x.png)
 
+1. membeli
+2. baca
+3. coba
+4. taruh XXXX because no agent. It is like the third person because someone must put the chair there. e.g. Pakaian perempuan bisa dilihat di lantai 1.  Pasif: Kursi itu ditaruh (oleh orang itu) di sana.
+	1. The answer is ditaruh
+5. menjual
+6. disewa
+7. mendapat
+8. membawa
+	1. pinjam
+9. mencuci
+10. ambil

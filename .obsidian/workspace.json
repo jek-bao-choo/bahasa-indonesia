@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b55be9ca0275c87c",
+        "id": "b2d79486f96e77b0",
         "type": "tabs",
         "children": [
           {
-            "id": "9994d717b97465d1",
+            "id": "da1b9c40544be95e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level2-Pelajaran11/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -169,25 +165,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "9994d717b97465d1",
+  "active": "da1b9c40544be95e",
   "lastOpenFiles": [
     "Level2-Pelajaran12/README.md",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T20-29-43_UTC+0800.png",
     "Level2-Pelajaran11/README.md",
     "Level2-Pelajaran13/README.md",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T20-30-36_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T20-30-04_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T20-15-19_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T19-54-59_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T19-41-23_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T19-41-45_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T19-22-31_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T19-22-19_UTC+0800.png",
+    "Level2-Pelajaran13/Screenshot_2025-10-14T19-21-48_UTC+0800.png",
     "Level2-Pelajaran13",
-    "Level2-Pelajaran11/Screenshot_2025-10-12T17-43-32_UTC+0800@2x.png",
     "Level2-Pelajaran12/Pelajaran 3.pdf",
     "Level2-Pelajaran10/README.md",
     "Level2-Pelajaran9/README.md",
-    "Pasted image 20251009203123.png",
-    "Level2-Pelajaran12/Pasted image 20251009194018.png",
-    "Level2-Pelajaran12/Pasted image 20251009202355.png",
-    "Level2-Pelajaran12/Pasted image 20251009201654.png",
-    "Level2-Pelajaran12/Pasted image 20251009200906.png",
-    "Level2-Pelajaran12/Pasted image 20251009200819.png",
-    "Level2-Pelajaran12/Pasted image 20251009200127.png",
-    "Level2-Pelajaran12/Pasted image 20251009200108.png",
-    "Level2-Pelajaran12/Pasted image 20251009195457.png",
     "Level2-Pelajaran12",
     "Level2-Pelajaran11",
     "Level2-Pelajaran10",
