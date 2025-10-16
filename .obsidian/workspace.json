@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d79486f96e77b0",
+        "id": "71c2dfad3005ab99",
         "type": "tabs",
         "children": [
           {
-            "id": "da1b9c40544be95e",
+            "id": "c139f24f500fdcec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Level2-Pelajaran14/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -165,21 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "da1b9c40544be95e",
+  "active": "fcb6ca81e8684ef0",
   "lastOpenFiles": [
+    "Level2-Pelajaran14/Screenshot_2025-10-16T20-28-46_UTC+0800.png",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T20-11-16_UTC+0800.png",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T19-51-01_UTC+0800.png",
+    "Level2-Pelajaran14/README.md",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T19-40-44_UTC+0800.png",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T19-38-08_UTC+0800.png",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T19-38-59_UTC+0800.png",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T19-09-11_UTC+0800.png",
+    "Level2-Pelajaran14/Screenshot_2025-10-16T19-06-14_UTC+0800.png",
+    "Level2-Pelajaran14",
     "Level2-Pelajaran12/README.md",
     "Level2-Pelajaran13/Screenshot_2025-10-14T20-29-43_UTC+0800.png",
     "Level2-Pelajaran11/README.md",
     "Level2-Pelajaran13/README.md",
     "Level2-Pelajaran13/Screenshot_2025-10-14T20-30-36_UTC+0800.png",
     "Level2-Pelajaran13/Screenshot_2025-10-14T20-30-04_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T20-15-19_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T19-54-59_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T19-41-23_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T19-41-45_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T19-22-31_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T19-22-19_UTC+0800.png",
-    "Level2-Pelajaran13/Screenshot_2025-10-14T19-21-48_UTC+0800.png",
     "Level2-Pelajaran13",
     "Level2-Pelajaran12/Pelajaran 3.pdf",
     "Level2-Pelajaran10/README.md",
@@ -195,7 +202,6 @@
     "Level2-Pelajaran8",
     "Pakaian dan warna.pptx",
     "Level2-Pelajaran7",
-    "Level2-Pelajaran5/pelajaran5.m4a",
     "Level2-Pelajaran3/README.md",
     "Level2-Pelajaran4/README.md",
     "README.md",
