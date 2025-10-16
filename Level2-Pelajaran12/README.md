@@ -14,9 +14,64 @@ Saya ada rapat di kantor pagi ini
 
 Akan ada rapat penting besok
 
+penting = **important** or **significant**.
+
 di ruang rapat
 
 ![](Pasted%20image%2020251009191015.png)
+
+**“Pembimbing”** means **mentor**, **guide**, **supervisor**, or **advisor**, depending on the context.
+
+pertemuannya = 
+
+- **Root word:** _temu_ → means “to meet” or “to find.”
+    
+- **Prefix:** _per-_ → forms a noun meaning “the event or result of.”
+    
+- **Suffix:** _-an_ → also turns verbs into nouns indicating an event or process.
+    
+- **Enclitic suffix:** _-nya_ → means “the” or “his/her/their/its.”
+    
+
+	So:  
+	👉 **per- + temu + -an + -nya → pertemuannya**  
+	→ literally: “the meeting” / “his or her meeting.”
+
+	Sorry, I’m late. Earlier, I had to meet with my academic supervisor, and the meeting took a very long time.
+
+
+|Word|Meaning|Root / Prefix / Suffix breakdown|
+|---|---|---|
+|**Tahun**|Year|Root noun.|
+|**Yang**|That / which / who|Relative pronoun.|
+|**Lalu**|Past / ago / last|Time marker.|
+|**Kita**|We / us (inclusive)|Personal pronoun.|
+|**Berangkat**|Depart / leave|Root: _angkat_ (lift); Prefix: _ber-_ → action of leaving or going.|
+|**Beberapa**|Several / a few|Quantifier.|
+|**Hari**|Day|Noun.|
+|**Sebelumnya**|Before it / earlier|Root: _belum_ → “before”; Prefix: _se-_ (one/same); Suffix: _-nya_ (its).|
+|**Tapi**|But|Conjunction (casual for “tetapi”).|
+|**Saya**|I|Pronoun.|
+|**Kira**|Think / guess|Root verb.|
+|**Rencana**|Plan|Root: _rencana_ (noun).|
+|**Itu**|That|Demonstrative.|
+|**Kurang efektif**|Less effective / not effective enough|_Kurang_ = lacking; _efektif_ = effective.|
+|**Karena**|Because|Conjunction.|
+|**Terlalu banyak**|Too many / too much|_Terlalu_ = too; _banyak_ = many.|
+|**Waktu luang**|Free time|_Waktu_ = time; _luang_ = free, spare.|
+|**Jadi**|So / therefore|Connector showing conclusion.|
+|**Bagaimana**|How|Question word.|
+|**Kalau**|If / how about|Conjunction, softener.|
+|**Sehari**|One day|Prefix _se-_ (one); _hari_ (day).|
+|**Sebelum**|Before|Preposition.|
+|**Acara**|Event / program|Noun.|
+|**Pembukaan**|Opening (ceremony)|Root: _buka_ (open); Prefix: _pe-_; Suffix: _-an_ → noun form “the act of opening.”|
+|**Dimulai**|Begun / started|Root: _mulai_ (start); Prefix: _di-_ (passive).|
+
+Last year, we departed a few days earlier. But I think that plan wasn’t very effective because there was too much free time. So, how about we leave one day before the opening event starts?
+
+mulai dari sini ->
+
 
 ![](Pasted%20image%2020251009191131.png)
 ![](Pasted%20image%2020251009192226.png)
