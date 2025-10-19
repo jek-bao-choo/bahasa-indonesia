@@ -144,14 +144,3 @@ Pinjam = **“To borrow.”**
 	1. pinjam
 9. mencuci
 10. ambil
-
-
-Mulai PR dari sini --> 
-
-![](Screenshot_2025-10-14T20-29-43_UTC+0800.png)
-
-
-![](Screenshot_2025-10-14T20-30-04_UTC+0800.png)
-
-
-![](Screenshot_2025-10-14T20-30-36_UTC+0800.png)
