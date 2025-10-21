@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e846131389b650a6",
+        "id": "2f8c6286c21e02f6",
         "type": "tabs",
         "children": [
           {
-            "id": "a3abdc29af743bfb",
+            "id": "c06a78d017866bc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Level2-Pelajaran15/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -165,25 +169,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb6ca81e8684ef0",
+  "active": "c06a78d017866bc0",
   "lastOpenFiles": [
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-23-21_UTC+0800.png",
     "Level2-Pelajaran15/README.md",
-    "Level2-Pelajaran15/Screenshot_2568-10-19T17-53-09_UTC+0800@2x.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-28-56_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-28-11_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-26-24_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-25-23_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-17-12_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-22-38_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-21-38_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-20-04_UTC+0800.png",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-17-40_UTC+0800.png",
     "Level2-Pelajaran12/Pelajaran 3.pdf",
     "Level2-Pelajaran13/README.md",
     "Level2-Pelajaran14/README.md",
-    "Level2-Pelajaran15/Screenshot_2568-10-19T17-36-24_UTC+0800@2x.png",
-    "Level2-Pelajaran15/Screenshot_2568-10-19T17-36-34_UTC+0800@2x.png",
-    "Level2-Pelajaran15/Screenshot_2568-10-19T17-36-45_UTC+0800@2x.png",
     "Level2-Pelajaran15",
     "Level2-Pelajaran12/README.md",
     "Level2-Pelajaran11/README.md",
-    "Level2-Pelajaran14/Screenshot_2025-10-16T20-28-46_UTC+0800.png",
-    "Level2-Pelajaran14/Screenshot_2025-10-16T20-11-16_UTC+0800.png",
-    "Level2-Pelajaran14/Screenshot_2025-10-16T19-51-01_UTC+0800.png",
-    "Level2-Pelajaran14/Screenshot_2025-10-16T19-40-44_UTC+0800.png",
-    "Level2-Pelajaran14/Screenshot_2025-10-16T19-38-08_UTC+0800.png",
-    "Level2-Pelajaran14/Screenshot_2025-10-16T19-38-59_UTC+0800.png",
     "Level2-Pelajaran14",
     "Level2-Pelajaran13",
     "Level2-Pelajaran10/README.md",
