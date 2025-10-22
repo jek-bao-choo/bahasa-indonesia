@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f8c6286c21e02f6",
+        "id": "dedf73c183b76f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "c06a78d017866bc0",
+            "id": "9901c35ea9dac251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level2-Pelajaran15/README.md",
+                "file": "Level2-Pelajaran14/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,19 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "c06a78d017866bc0",
+  "active": "9901c35ea9dac251",
   "lastOpenFiles": [
-    "Level2-Pelajaran15/Screenshot_2568-10-21T20-23-21_UTC+0800.png",
+    "Level2-Pelajaran17/README.md",
+    "Level2-Pelajaran17/Screenshot_2568-10-23T05-38-35_UTC+0800@2x.png",
+    "Level2-Pelajaran17/Screenshot_2568-10-23T05-37-58_UTC+0800@2x.png",
+    "Level2-Pelajaran17/Screenshot_2568-10-23T05-36-38_UTC+0800@2x.png",
+    "Screenshot_2568-10-23T05-34-54_UTC+0800@2x.png",
     "Level2-Pelajaran15/README.md",
+    "Level2-Pelajaran17",
+    "Level2-Pelajaran16/README.md",
+    "Level2-Pelajaran16",
+    "Level2-Pelajaran15/Screenshot_2568-10-21T20-23-21_UTC+0800.png",
     "Level2-Pelajaran15/Screenshot_2568-10-21T20-28-56_UTC+0800.png",
     "Level2-Pelajaran15/Screenshot_2568-10-21T20-28-11_UTC+0800.png",
     "Level2-Pelajaran15/Screenshot_2568-10-21T20-26-24_UTC+0800.png",
     "Level2-Pelajaran15/Screenshot_2568-10-21T20-25-23_UTC+0800.png",
     "Level2-Pelajaran15/Screenshot_2568-10-21T20-17-12_UTC+0800.png",
-    "Level2-Pelajaran15/Screenshot_2568-10-21T20-22-38_UTC+0800.png",
-    "Level2-Pelajaran15/Screenshot_2568-10-21T20-21-38_UTC+0800.png",
-    "Level2-Pelajaran15/Screenshot_2568-10-21T20-20-04_UTC+0800.png",
-    "Level2-Pelajaran15/Screenshot_2568-10-21T20-17-40_UTC+0800.png",
     "Level2-Pelajaran12/Pelajaran 3.pdf",
     "Level2-Pelajaran13/README.md",
     "Level2-Pelajaran14/README.md",
@@ -200,8 +204,6 @@
     "Level2-Pelajaran7/README.md",
     "Level2-Pelajaran6/README.md",
     "Level2-Pelajaran5/README.md",
-    "Level2-Pelajaran8",
-    "Pakaian dan warna.pptx",
     "Level2-Pelajaran3/README.md",
     "Level2-Pelajaran4/README.md",
     "README.md",
