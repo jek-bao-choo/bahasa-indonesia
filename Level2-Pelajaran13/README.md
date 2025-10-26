@@ -38,11 +38,11 @@ It’s similar to:
 
 ![](Screenshot_2025-10-14T19-10-53_UTC+0800.png)
 
-|Part|Explanation|
-|---|---|
-|**turun**|root verb = _to go down, to descend, to get off._|
-|**-nya**|suffix, can mean _his/her/its_ or _the (noun form of action)._|
-|**turunnya**|literally “the act of going down,” “his/her descent,” or “the time of getting off.”|
+| Part         | Explanation                                                                         |
+| ------------ | ----------------------------------------------------------------------------------- |
+| **turun**    | root verb = _to go down, to descend, to get off._                                   |
+| **-nya**     | suffix, can mean _his/her/its_ or _the (noun form of action)._                      |
+| **turunnya** | literally “the act of going down,” “his/her descent,” or “the time of getting off.” |
 - **“Turunnya hujan deras.”** → _The rain fell heavily._
     
 - **“Turunnya harga minyak.”** → _The fall of oil prices._
@@ -70,6 +70,18 @@ Turun dari kereta api
 
 
 kereta listrik
+
+In Indonesia, **listrik** is an essential part of daily life.  
+People often talk about **“token listrik”** (electricity credit) because most homes use prepaid meters.  
+Example of common use:
+
+- “Listriknya habis!” → “The electricity ran out!”
+    
+- “Token listrik sudah dibeli?” → “Have you bought the electricity token?”
+
+
+Mulai dari sini -->
+
 
 ![](Screenshot_2025-10-14T19-20-23_UTC+0800.png)
 
