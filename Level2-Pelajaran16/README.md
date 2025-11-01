@@ -157,24 +157,50 @@ Dijawab oleh Jek
 
 Latihan 6
 
+bayar = pay
+
+Hutang = debt, money owed
+
+“Tanggal berapa?” → “What date is it?” or “When (exactly)?”
+
+|Part|Meaning|Notes|
+|---|---|---|
+|**pe-**|prefix meaning “the person who…”|forms nouns indicating an agent or doer|
+|**miliki** / **memiliki**|to own / to possess|derived from _milik_|
+|**milik**|possession / ownership|root noun|
+
+So:
+
+- **milik** → possession
+    
+- **memiliki** → to own
+    
+- **pemilik** → the owner
+
 ![](Screenshot_2568-10-19T17-36-24_UTC+0800@2x.png)
 
 Dijawab oleh Jek:
-1. Mengapa obat itu kamu belum diminum?
-2. ...
+1. Saya belum minimum obat karena saya belum makan.
+	1. Obat itu belum saya minimum karena saya belum makan siang.
+2. Besok dia akan membayar hutangnya.
+	1. Hutangnya akan dibayar oleh dia besok.
+3. Saya mau antar kakek ke rumah sakit.
+	1. kakek mau diantar oleh saya ke rumah sakit.
+4. Besok Andi akan mengundang kita ke rumahnya.
+	1.  Kita akan diundang oleh Andi ke rumahnya tanggal 5 November.
+5. Setiap hari jam sembilan pemilik toko akan membuka tokonya.
+	1. Tokonya akan dibuka oleh pemilik toko setiap hari jam sembilan
+6. Kita akan menyewa rumah di Singapura
+	1. Rumah akan kita sewa di Singapura
+7. Teguh belum membeli buku novel itu karena mahal sekali
+	1. Buku novel itu belum dibeli oleh Teguh karena mahal sekali.
+8. Mark mau memesan ayam nasi goreng di restoran itu.
+	1. ayam nasi goreng mau dipesan oleh Mark di restoran itu. 
+9. Saya akan membawa barang-barang itu ke toko buku.
+	1. Barang-barang itu akan saya bawa ke toko buku.
+10. Pacar Sari mengirim bunga untuk Sari
+	1. Bunga untuk Sari dikirim oleh pacarnya
 
-![](Screenshot_2568-10-19T17-36-34_UTC+0800@2x.png)
-
-Dijawab oleh Jek:
-11. ...
-12. ...
-
-![](Screenshot_2568-10-19T17-36-45_UTC+0800@2x.png)
-
-Dijawab oleh Jek:
-
-21. ...
-22. ...
 
 
 ![](Pasted%20image%2020251023191251.png)
@@ -191,11 +217,39 @@ Dijawab oleh Jek:
 
 ![](Pasted%20image%2020251023193936.png)
 
+
+---
+
+
+|Word|Meaning|Usage|English Equivalent|
+|---|---|---|---|
+|**nonton**|to watch|informal / spoken|watch (casual)|
+|**menonton**|to watch|formal / written|to watch (formal)|
+|**tonton**|watch (root form / command)|base or imperative|watch (as a command)|
+
+![](Screenshot_2568-10-19T17-36-34_UTC+0800@2x.png)
+
+Dijawab oleh Jek:
+11. Saya akan menonton film itu di jam sembilan
+	1. film itu akan saya tonton jam sembilan
+12. Bulan depan kita akan menjual rumah itu.
+	1. rumah itu akan kita jual bulan depan.
+13. 
+
+
 ![](Pasted%20image%2020251023194620.png)
 
 ![](Pasted%20image%2020251023194928.png)
 
 ![](Pasted%20image%2020251023200053.png)
+
+
+![](Screenshot_2568-10-19T17-36-45_UTC+0800@2x.png)
+
+Dijawab oleh Jek:
+
+21. ...
+22. ...
 
 ![](Pasted%20image%2020251023200610.png)
 
