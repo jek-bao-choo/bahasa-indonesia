@@ -80,7 +80,6 @@ Example of common use:
 - “Token listrik sudah dibeli?” → “Have you bought the electricity token?”
 
 
-Mulai dari sini -->
 
 
 ![](Screenshot_2025-10-14T19-20-23_UTC+0800.png)
@@ -91,10 +90,31 @@ Mulai dari sini -->
 
 uang saya habis.
 
-Ada bus langsung dari __ ke ___
+Ada bus langsung dari ___ ke ___ .
+
+|Word|Meaning|Typical English Equivalent|
+|---|---|---|
+|**ganti**|to replace, to change, to substitute|_change / replace / swap_|
+|**pindah**|to move (from one place to another)|_move / relocate / shift_|
+
+### Usage in Daily Conversation
+
+- **Ganti** is used when **you replace or change something** (an object, job, clothes, etc.).  
+    👉 Example: _Saya mau ganti baju._ → “I want to change clothes.”  
+    👉 Example: _Kita harus ganti ban mobil._ → “We have to replace the car tire.”
+    
+- **Pindah** is used when **you move your location or position** (house, school, seat, etc.).  
+    👉 Example: _Saya pindah rumah ke Jakarta._ → “I moved house to Jakarta.”  
+    👉 Example: _Bisa pindah ke kursi depan?_ → “Can you move to the front seat?”
 
 ![](Screenshot_2025-10-14T19-21-48_UTC+0800.png)
 
+
+|Part|Meaning|
+|---|---|
+|**pa-**|prefix forming nouns or agents (person or thing associated with the root action)|
+|**-an**|suffix forming a noun (result, object, or concept of the action)|
+|**Root: pasang**|to pair, to attach, to install|
 
 ![](Screenshot_2025-10-14T19-22-19_UTC+0800.png)
 
