@@ -13,6 +13,14 @@ Timur = East
 
 ![](Screenshot_2568-10-21T19-13-46_UTC+0800.png)
 
+- **Jakarta Selatan** → “South Jakarta,” one of Jakarta’s administrative regions.
+    
+- **Sumatra Selatan** → “South Sumatra,” a province in Indonesia.
+
+- _Jakarta Barat_ → “West Jakarta.”
+    
+- _Sumatra Barat_ → “West Sumatra.”
+
 
 
 ![](Screenshot_2568-10-21T19-15-52_UTC+0800.png)
@@ -33,6 +41,7 @@ belum pernah = not yet
 2. Tidak sering. Karena Jakarta dan Solo jauh sekali. 
 3. Batik dan kue lapis Solo.
 4. 
+
 
 
 ![](Screenshot_2568-10-21T19-22-10_UTC+0800.png)
@@ -62,17 +71,6 @@ Engkau = you but we don't use it in conversation. But use it mostly songs or lit
 ![](Screenshot_2568-10-21T20-17-12_UTC+0800.png)
 
 
-
-![](Screenshot_2568-10-21T20-17-40_UTC+0800.png)
-
-
-Bagian = parts
-tubuh = body
-
-Saya berkerja di bagian penjualan
-bagian penjualan = sales department
-
-
 ![](Screenshot_2568-10-21T20-20-04_UTC+0800.png)
 
 
@@ -84,6 +82,17 @@ bagian penjualan = sales department
 
 
 ![](Screenshot_2568-10-21T20-23-21_UTC+0800.png)
+
+
+
+![](Screenshot_2568-10-21T20-17-40_UTC+0800.png)
+
+
+Bagian = parts
+tubuh = body
+
+Saya berkerja di bagian penjualan
+bagian penjualan = sales department
 
 
 
@@ -99,6 +108,13 @@ wajah = muka = face
 
 
 ![](Screenshot_2568-10-21T20-28-11_UTC+0800.png)
+
+
+Saya merasa mual.  
+→ “I feel nauseous.”
+
+
+**“Jelek”** means **ugly**, **bad-looking**, or **poor in quality** depending on context.
 
 
 
