@@ -47,6 +47,19 @@ supaya = in order to <-- must remember this.
 | jangan-jangan | reduplication | “what if…”, “maybe…”       | the repetition changes it from prohibition to **suspicion/possibility** |
 
 
+**“Supaya”** means **“so that”** or **“in order to”** in English.  
+It’s a **conjunction** (kata penghubung) used to show **purpose** or **intention**.
+
+
+For example:
+
+> “Tolong cepat siap, **supaya** tidak terlambat.”  
+> (Please get ready quickly, so that we won’t be late.)  
+> This is more polite than saying “Cepat siap!”
+
+
+
+
 PR --> 
 
 ![](Screenshot_2568-10-30T20-33-19_UTC+0800@2x.png)
