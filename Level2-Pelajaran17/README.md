@@ -10,6 +10,27 @@
 
 ![](Screenshot_2568-10-28T19-13-08_UTC+0800@2x.png)
 
+**“Ujian”** means **“exam,” “test,” or “trial.”**
+
+**“Jelek”** means **“bad,” “ugly,” “poor quality,”** or **“unpleasant.”**
+
+| Part       | Function  | Meaning              |
+| ---------- | --------- | -------------------- |
+| **sembuh** | root verb | to recover / to heal |
+
+|Part|Function|Meaning|
+|---|---|---|
+|**sehat**|root adjective|healthy|
+|**ke-...-an**|circumfix|forms a **noun** meaning “the state or condition of being …”|
+
+So:  
+**sehat (healthy)** → **kesehatan (health, the state of being healthy)**
+
+**“Penting”** means **“important”** or **“significant.”**
+
+**“Mahir”** means **“skilled,” “proficient,” “expert,” or “adept.”**  
+It describes someone who does something **very well** because of **experience or talent.**
+
 ![](Screenshot_2568-10-28T19-13-16_UTC+0800@2x.png)
 
 ![](Screenshot_2568-10-28T19-23-11_UTC+0800@2x.png)

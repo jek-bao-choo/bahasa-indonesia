@@ -227,6 +227,13 @@ Dijawab oleh Jek:
 |**menonton**|to watch|formal / written|to watch (formal)|
 |**tonton**|watch (root form / command)|base or imperative|watch (as a command)|
 
+- **Root word:** _rita_ (archaic, rarely used today; originally from Sanskrit _vṛtta_ meaning “happening/event”)
+    
+- **Prefix:** _be-_ (a variant of _ber-_ meaning “to have” or “to be involved in”)
+    
+- Together → **berita** =  news / “information about something that happened”
+
+
 ![](Screenshot_2568-10-19T17-36-34_UTC+0800@2x.png)
 
 Dijawab oleh Jek:
@@ -234,7 +241,22 @@ Dijawab oleh Jek:
 	1. film itu akan saya tonton jam sembilan
 12. Bulan depan kita akan menjual rumah itu.
 	1. rumah itu akan kita jual bulan depan.
-13. 
+13. Ya, Toni mengajak saya untuk pergi ke Bali.
+	1. Ya, saya diajak oleh Toni untuk pergi ke Bali.
+14. Ibu memasak ayam goreng untuk kita malam ni.
+	1. ayam goreng dimasak oleh Ibu untuk kita malam ni.
+15. Karena kita tidak cukup uang menyewa kamar hotel yang mahal itu.
+	1. kamar hotel yang mahal itu tidak kita sewa karena tidak cukup uang.
+16. Kemarin saya mendengar berita itu dari kakak saya.
+	1. Berita itu saya dengar dari kakak saya.
+17. Ya, Om Andi sudah membeli meja makan untuk rumah barunya.
+	1. Ya, meja makan untuk rumah barunya sudah dibeli oleh Om Andi.
+18. Adik memotong rambutnya pandek sekali karena cuaca panas banget.
+	1. Rambutnya pandek sekali dipotong oleh Adik karena cuaca panas banget.
+19. Mereka akan mencari buku itu di perpustakaan.
+	1. Buku itu akan dicari oleh mereka di perpustakaan pusat.
+20. Ya, pembantu akan mengelap jendela kamar ibu setiap hari.
+	1. Jendela kamar ibu akan dilap oleh pembantu setiap hari.
 
 
 ![](Pasted%20image%2020251023194620.png)
@@ -244,12 +266,31 @@ Dijawab oleh Jek:
 ![](Pasted%20image%2020251023200053.png)
 
 
+|Part|Function|Meaning|
+|---|---|---|
+|**me-**|prefix|active verb marker (doing the action)|
+|**ng-**|nasal assimilation of “me-” before root starting with “s”||
+|**isi**|root word|“content,” “to fill,” “what’s inside”|
+
+|Part|Function|Meaning|
+|---|---|---|
+|**me-**|prefix|indicates an **active verb** (to do something)|
+|**nang**|root (from **“menang”** — original root **“tang”** lost)|means “win”|
+
 ![](Screenshot_2568-10-19T17-36-45_UTC+0800@2x.png)
 
 Dijawab oleh Jek:
 
-21. ...
-22. ...
+21. Minggu depan kakak akan mengisi tokonya dengan barang-barang yang baru.
+	1.  Tokonya akan diisi oleh kakak minggu depan dengan barang-barang yang baru.
+22. Semua orang sudah mengirim hadiah ulang tahun untuk nenek.
+	1. Hadiah ulang tahun untuk nenek sudah kirim oleh semua orang.
+23. Polisi tidak menelepon saya.
+	1. Saya tidak ditelepon oleh polisi.
+24. Ya, pembeli tidak boleh mencoba pakaian itu.
+	1. Ya, pakaian itu tidak boleh dicoba oleh pembeli.
+25. Tante mau mengajak kita makan di restoran yang mahal itu karena dia baru menang lotre.
+	1. Kita mau diajak makan di restoran yang mahal itu oleh tante karena dia baru menang lotre.
 
 ![](Pasted%20image%2020251023200610.png)
 
@@ -275,7 +316,18 @@ Saya tidak suka minuman -minuman kaleng karena manis sekali.
 Rumah sakit itu kurang dokter-dokter.
 
 
-
+|Classifier|Meaning / Used For|Example|English|
+|---|---|---|---|
+|orang|people|dua orang guru|two teachers|
+|pasang|pairs|sepasang sepatu|a pair of shoes|
+|batang|long, stick-like things|satu batang pohon|one tree|
+|butir|round items|dua butir telur|two eggs|
+|helai|thin, flexible things|satu helai rambut|one hair strand|
+|buah|general object|dua buah rumah|two houses|
+|potong|cut items|satu potong kue|a piece of cake|
+|cangkir|cup (drink)|satu cangkir teh|a cup of tea|
+|lembar|flat, thin objects|satu lembar uang|one sheet of money|
+|ekor|animals|tiga ekor kucing|three cats|
 
 
 
