@@ -68,6 +68,25 @@ capai = tired but in dictionary but people say "capek"
 
 
 
+![](Screenshot_2568-11-04T19-03-26_UTC+0800.png)
+
+**“Demam”** means **“fever.”**
+
+
+![](Screenshot_2568-11-04T19-09-32_UTC+0800.png)
+
+![](Screenshot_2568-11-04T19-09-56_UTC+0800.png)
+
+pahit = bitter
+
+
+
+![](Screenshot_2568-11-04T19-12-09_UTC+0800.png)
+
+
+
+
+
 Tuesday Test --> Listening, actif pasif, and creating dialog.
 
 Thursday Test --> Writing test
